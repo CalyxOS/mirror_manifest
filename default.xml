@@ -122,4 +122,13 @@
   <project name="calyxos/vendor_qcom_opensource_dataservices" />
   <project name="calyxos/vendor_qcom_opensource_interfaces" />
   <project name="calyxos/vendor_qcom_opensource_power" />
+  <project name="calyxos/weblate/l10n_test" />
+  <project name="calyxos/weblate/platform_frameworks_base" />
+  <project name="calyxos/weblate/platform_packages_apps_contacts" />
+  <project name="calyxos/weblate/platform_packages_apps_dialer" />
+  <project name="calyxos/weblate/platform_packages_apps_panictrigger" />
+  <project name="calyxos/weblate/platform_packages_apps_settings" />
+  <project name="calyxos/weblate/platform_packages_apps_setupwizard" />
+  <project name="calyxos/weblate/platform_packages_apps_updater" />
+  <project name="calyxos/weblate/seedvault" />
 </manifest>

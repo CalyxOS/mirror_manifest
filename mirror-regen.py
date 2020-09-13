@@ -20,7 +20,7 @@ groups = glab.groups.list()
 groupname = "CalyxOS"
 for group in groups:
     if group.name == groupname:
-        projects = group.projects.list(all=True, archived=False, visibility="public")
+        projects = group.projects.list(all=True, archived=False, visibility="public", include_subgroups=True)
 
 file = open("default.xml", "w")
 file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
