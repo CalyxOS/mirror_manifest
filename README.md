@@ -13,12 +13,12 @@ If you want to sync the source quickly but want it to be up-to-date without sync
 To update the mirror, use the `mirror-regen.py` script.  
 Please make sure you set the environment variable before using the script:
 
-`GLTOKEN` contains a GitLab Personal Access Token  
+`GITLAB_TOKEN` contains a GitLab Personal Access Token  
   
 To set these environment variables, run these commands in your terminal window:  
 
 ```
-export GLTOKEN="<Your Token>"
+export GITLAB_TOKEN="<Your Token>"
 ```
 
 (You can obtain a GitLab Personal Access Token [here](https://gitlab.com/profile/personal_access_tokens))

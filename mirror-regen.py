@@ -10,9 +10,9 @@ except ImportError:
 e = os.environ.copy()
 # Environment variables for gitlab username and api token
 try:
-    p = e["GLTOKEN"]
+    p = e["GITLAB_TOKEN"]
 except KeyError:
-    print("Please set the GLTOKEN environment variable")
+    print("Please set the GITLAB_TOKEN environment variable")
     exit(1)
 
 glab = Gitlab(f'https://gitlab.com', p)
