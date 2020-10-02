@@ -27,6 +27,7 @@
   <project name="calyxos/device_xiaomi_jasmine_sprout" />
   <project name="calyxos/device_xiaomi_sdm660-common" />
   <project name="calyxos/device_xiaomi_wayne-common" />
+  <project name="calyxos/gerrit_test" />
   <project name="calyxos/gitlab-oss" />
   <project name="calyxos/infra" />
   <project name="calyxos/kernel_google_coral" />
@@ -122,6 +123,7 @@
   <project name="calyxos/vendor_qcom_opensource_dataservices" />
   <project name="calyxos/vendor_qcom_opensource_interfaces" />
   <project name="calyxos/vendor_qcom_opensource_power" />
+  <project name="calyxos/wallpapers" />
   <project name="calyxos/weblate/l10n_test" />
   <project name="calyxos/weblate/platform_frameworks_base" />
   <project name="calyxos/weblate/platform_packages_apps_contacts" />
