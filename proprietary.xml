@@ -1,0 +1,9 @@
+<manifest>
+
+  <remote name="gitlab-priv"
+          fetch="ssh://git@gitlab.com" />
+
+  <project name="calyxos/proprietary_vendor_google_devices" remote="gitlab-priv" />
+  <project name="calyxos/proprietary_vendor_xiaomi" remote="gitlab-priv" />
+
+</manifest>
