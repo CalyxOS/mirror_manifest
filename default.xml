@@ -116,6 +116,7 @@
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
+  <project name="CalyxOS/platform_system_libufdt" />
   <project name="CalyxOS/platform_system_netd" />
   <project name="CalyxOS/platform_system_nfc" />
   <project name="CalyxOS/platform_system_sepolicy" />
@@ -132,6 +133,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/wallpapers" />
+  <project name="CalyxOS/weblate/bitmask_android" />
   <project name="CalyxOS/weblate/l10n_test" />
   <project name="CalyxOS/weblate/platform_frameworks_base" />
   <project name="CalyxOS/weblate/platform_packages_apps_contacts" />
