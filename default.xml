@@ -14,6 +14,7 @@
   <project name="CalyxOS/calyxos" />
   <project name="CalyxOS/calyxos-fdroid-repo" />
   <project name="CalyxOS/calyxos.org" />
+  <project name="CalyxOS/chromium-patches" />
   <project name="CalyxOS/device-flasher" />
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_google_bonito" />
@@ -113,6 +114,9 @@
   <project name="CalyxOS/platform_packages_services_Telephony" />
   <project name="CalyxOS/platform_prebuilts_build-tools" />
   <project name="CalyxOS/platform_prebuilts_calyx" />
+  <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" />
+  <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
+  <project name="CalyxOS/platform_prebuilts_calyx_microg" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
