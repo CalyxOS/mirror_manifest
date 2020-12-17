@@ -11,10 +11,22 @@
   <project name="CalyxOS/bitmask_android" />
   <project name="CalyxOS/branding" />
   <project name="CalyxOS/calyx-fdroid-repo" />
+  <project name="CalyxOS/calyx-fdroid-repo-apks" />
+  <project name="CalyxOS/calyx-fdroid-repo-blueline" />
+  <project name="CalyxOS/calyx-fdroid-repo-bonito" />
+  <project name="CalyxOS/calyx-fdroid-repo-coral" />
+  <project name="CalyxOS/calyx-fdroid-repo-crosshatch" />
+  <project name="CalyxOS/calyx-fdroid-repo-flame" />
+  <project name="CalyxOS/calyx-fdroid-repo-jasmine_sprout" />
+  <project name="CalyxOS/calyx-fdroid-repo-sargo" />
+  <project name="CalyxOS/calyx-fdroid-repo-sunfish" />
+  <project name="CalyxOS/calyx-fdroid-repo-taimen" />
+  <project name="CalyxOS/calyx-fdroid-repo-walleye" />
   <project name="CalyxOS/calyxos" />
   <project name="CalyxOS/calyxos-fdroid-repo" />
   <project name="CalyxOS/calyxos.org" />
   <project name="CalyxOS/chromium-patches" />
+  <project name="CalyxOS/ci-images-fdroid-repo" />
   <project name="CalyxOS/device-flasher" />
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_google_bonito" />
@@ -48,6 +60,7 @@
   <project name="CalyxOS/platform_external_ant-wireless_ant_service" />
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
   <project name="CalyxOS/platform_external_json-c" />
+  <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libexif" />
   <project name="CalyxOS/platform_external_microg_FakeStore" />
   <project name="CalyxOS/platform_external_microg_GmsCore" />
@@ -87,6 +100,7 @@
   <project name="CalyxOS/platform_packages_apps_DeskClock" />
   <project name="CalyxOS/platform_packages_apps_Dialer" />
   <project name="CalyxOS/platform_packages_apps_Eleven" />
+  <project name="CalyxOS/platform_packages_apps_ElmyraService" />
   <project name="CalyxOS/platform_packages_apps_EmergencyInfo" />
   <project name="CalyxOS/platform_packages_apps_Etar" />
   <project name="CalyxOS/platform_packages_apps_ExactCalculator" />
@@ -102,6 +116,7 @@
   <project name="CalyxOS/platform_packages_apps_Settings" />
   <project name="CalyxOS/platform_packages_apps_SettingsIntelligence" />
   <project name="CalyxOS/platform_packages_apps_SetupWizard" />
+  <project name="CalyxOS/platform_packages_apps_SimpleDeviceConfig" />
   <project name="CalyxOS/platform_packages_apps_Stk" />
   <project name="CalyxOS/platform_packages_apps_StorageManager" />
   <project name="CalyxOS/platform_packages_apps_ThemePicker" />
