@@ -9,6 +9,7 @@
            sync-j="4" />
 
   <project name="CalyxOS/bitmask_android" />
+  <project name="CalyxOS/blossom" />
   <project name="CalyxOS/branding" />
   <project name="CalyxOS/calyx-fdroid-repo" />
   <project name="CalyxOS/calyx-fdroid-repo-apks" />
@@ -30,9 +31,12 @@
   <project name="CalyxOS/device-flasher" />
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_google_bonito" />
+  <project name="CalyxOS/device_google_bramble" />
   <project name="CalyxOS/device_google_coral" />
   <project name="CalyxOS/device_google_crosshatch" />
   <project name="CalyxOS/device_google_muskie" />
+  <project name="CalyxOS/device_google_redbull" />
+  <project name="CalyxOS/device_google_redfin" />
   <project name="CalyxOS/device_google_sunfish" />
   <project name="CalyxOS/device_google_taimen" />
   <project name="CalyxOS/device_google_wahoo" />
@@ -52,13 +56,16 @@
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/l10n_test" />
   <project name="CalyxOS/mirror_manifest" />
+  <project name="CalyxOS/muzei" />
   <project name="CalyxOS/platform_bionic" />
   <project name="CalyxOS/platform_build" />
   <project name="CalyxOS/platform_build_soong" />
   <project name="CalyxOS/platform_external_aac" />
+  <project name="CalyxOS/platform_external_ant-wireless_ant_client" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_native" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_service" />
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
+  <project name="CalyxOS/platform_external_ant-wireless_hidl" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libexif" />
@@ -91,6 +98,7 @@
   <project name="CalyxOS/platform_hardware_qcom_sm8150_data_ipacfg-mgr" />
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
   <project name="CalyxOS/platform_manifest" />
+  <project name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Backgrounds" />
   <project name="CalyxOS/platform_packages_apps_Bluetooth" />
   <project name="CalyxOS/platform_packages_apps_Camera2" />
@@ -133,6 +141,7 @@
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" />
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
+  <project name="CalyxOS/platform_prebuilts_extract-tools" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
@@ -141,6 +150,7 @@
   <project name="CalyxOS/platform_system_nfc" />
   <project name="CalyxOS/platform_system_sepolicy" />
   <project name="CalyxOS/platform_system_update_engine" />
+  <project name="CalyxOS/platform_tools_extract-utils" />
   <project name="CalyxOS/release" />
   <project name="CalyxOS/releases" />
   <project name="CalyxOS/scripts" />
