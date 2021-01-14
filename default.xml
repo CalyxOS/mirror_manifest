@@ -51,6 +51,7 @@
   <project name="CalyxOS/kernel_google_msm-4.9" />
   <project name="CalyxOS/kernel_google_msm-4.9_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_msm-4.9_techpack_audio" />
+  <project name="CalyxOS/kernel_google_redbull" />
   <project name="CalyxOS/kernel_google_sunfish" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
