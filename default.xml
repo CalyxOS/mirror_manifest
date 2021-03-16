@@ -71,6 +71,7 @@
   <project name="CalyxOS/platform_bionic" />
   <project name="CalyxOS/platform_build" />
   <project name="CalyxOS/platform_build_soong" />
+  <project name="CalyxOS/platform_calyx-sdk" />
   <project name="CalyxOS/platform_external_aac" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_client" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_native" />
