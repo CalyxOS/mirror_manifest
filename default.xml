@@ -152,7 +152,10 @@
   <project name="CalyxOS/platform_packages_services_Telephony" />
   <project name="CalyxOS/platform_prebuilts_build-tools" />
   <project name="CalyxOS/platform_prebuilts_calyx" />
+  <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" />
+  <project name="CalyxOS/platform_prebuilts_calyx_chromium_x64" />
+  <project name="CalyxOS/platform_prebuilts_calyx_chromium_x86" />
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
