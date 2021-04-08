@@ -22,6 +22,30 @@
       "revId": "86791bd8ef3a031107d061c0a45b0a7c8498c354",
       "serverId": "35266860-6252-469c-a67d-185064479fc0",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2a1a7ff1_4f0bbbea",
+        "filename": "default.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-04-08T11:50:53Z",
+      "side": 1,
+      "message": "Chromium calls it x64 everywhere so I named the repos to name it easier to script copying (build x64 chromium, copy apk to x64/, sign, copy to x64 repo here)\n\nAndroid uses x86_64 but that\u0027s only in the makefiles which we just need to edit once.",
+      "parentUuid": "623761c9_9abfaf4e",
+      "range": {
+        "startLine": 157,
+        "startChar": 59,
+        "endLine": 157,
+        "endChar": 62
+      },
+      "revId": "86791bd8ef3a031107d061c0a45b0a7c8498c354",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": true
     }
   ]
 }
