@@ -8,6 +8,7 @@
            remote="gitlab"
            sync-j="4" />
 
+  <project name="CalyxOS/.github" />
   <project name="CalyxOS/bitmask_android" />
   <project name="CalyxOS/blossom" />
   <project name="CalyxOS/branding" />
@@ -146,6 +147,7 @@
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
   <project name="CalyxOS/platform_packages_providers_ContactsProvider" />
+  <project name="CalyxOS/platform_packages_providers_DownloadProvider" />
   <project name="CalyxOS/platform_packages_providers_MediaProvider" />
   <project name="CalyxOS/platform_packages_resources_devicesettings" />
   <project name="CalyxOS/platform_packages_services_Telecomm" />
@@ -159,6 +161,7 @@
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
+  <project name="CalyxOS/platform_prebuilts_kernel-build-tools" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
