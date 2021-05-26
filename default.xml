@@ -64,6 +64,7 @@
   <project name="CalyxOS/kernel_google_redbull" />
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
   <project name="CalyxOS/kernel_google_sunfish" />
+  <project name="CalyxOS/kernel_google_sunfish_drivers_staging_fts" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/l10n_test" />
@@ -73,6 +74,7 @@
   <project name="CalyxOS/platform_build" />
   <project name="CalyxOS/platform_build_soong" />
   <project name="CalyxOS/platform_calyx-sdk" />
+  <project name="CalyxOS/platform_development" />
   <project name="CalyxOS/platform_external_aac" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_client" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_native" />
