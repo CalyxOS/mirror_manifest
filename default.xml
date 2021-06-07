@@ -35,17 +35,24 @@
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_google_bonito" />
   <project name="CalyxOS/device_google_bonito-kernel" />
+  <project name="CalyxOS/device_google_bonito-sepolicy" />
   <project name="CalyxOS/device_google_bramble" />
+  <project name="CalyxOS/device_google_bramble-sepolicy" />
   <project name="CalyxOS/device_google_coral" />
   <project name="CalyxOS/device_google_coral-kernel" />
+  <project name="CalyxOS/device_google_coral-sepolicy" />
   <project name="CalyxOS/device_google_crosshatch" />
   <project name="CalyxOS/device_google_crosshatch-kernel" />
+  <project name="CalyxOS/device_google_crosshatch-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
   <project name="CalyxOS/device_google_redbull" />
   <project name="CalyxOS/device_google_redbull-kernel" />
+  <project name="CalyxOS/device_google_redbull-sepolicy" />
   <project name="CalyxOS/device_google_redfin" />
+  <project name="CalyxOS/device_google_redfin-sepolicy" />
   <project name="CalyxOS/device_google_sunfish" />
   <project name="CalyxOS/device_google_sunfish-kernel" />
+  <project name="CalyxOS/device_google_sunfish-sepolicy" />
   <project name="CalyxOS/device_google_taimen" />
   <project name="CalyxOS/device_google_wahoo" />
   <project name="CalyxOS/device_google_wahoo-kernel" />
@@ -67,6 +74,7 @@
   <project name="CalyxOS/kernel_google_sunfish_drivers_staging_fts" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
+  <project name="CalyxOS/keys" />
   <project name="CalyxOS/l10n_test" />
   <project name="CalyxOS/mirror_manifest" />
   <project name="CalyxOS/muzei" />
@@ -81,6 +89,7 @@
   <project name="CalyxOS/platform_external_ant-wireless_ant_service" />
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
   <project name="CalyxOS/platform_external_ant-wireless_hidl" />
+  <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libexif" />
@@ -88,6 +97,8 @@
   <project name="CalyxOS/platform_external_microg_GmsCore" />
   <project name="CalyxOS/platform_external_microg_GsfProxy" />
   <project name="CalyxOS/platform_external_microg_UnifiedNlp" />
+  <project name="CalyxOS/platform_external_muzei_blossom" />
+  <project name="CalyxOS/platform_external_muzei_muzei" />
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_frameworks_av" />
@@ -121,6 +132,7 @@
   <project name="CalyxOS/platform_packages_apps_CellBroadcastReceiver" />
   <project name="CalyxOS/platform_packages_apps_CertInstaller" />
   <project name="CalyxOS/platform_packages_apps_Contacts" />
+  <project name="CalyxOS/platform_packages_apps_Datura" />
   <project name="CalyxOS/platform_packages_apps_DeskClock" />
   <project name="CalyxOS/platform_packages_apps_Dialer" />
   <project name="CalyxOS/platform_packages_apps_Eleven" />
@@ -150,6 +162,7 @@
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
   <project name="CalyxOS/platform_packages_providers_ContactsProvider" />
+  <project name="CalyxOS/platform_packages_providers_CrossProfileProvider" />
   <project name="CalyxOS/platform_packages_providers_DownloadProvider" />
   <project name="CalyxOS/platform_packages_providers_MediaProvider" />
   <project name="CalyxOS/platform_packages_resources_devicesettings" />
@@ -180,6 +193,7 @@
   <project name="CalyxOS/vendor_android-prepare-vendor" />
   <project name="CalyxOS/vendor_calyx" />
   <project name="CalyxOS/vendor_codeaurora_telephony" />
+  <project name="CalyxOS/vendor_google_devices" />
   <project name="CalyxOS/vendor_qcom_opensource_audio" />
   <project name="CalyxOS/vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project name="CalyxOS/vendor_qcom_opensource_dataservices" />
