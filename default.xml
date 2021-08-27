@@ -14,6 +14,7 @@
   <project name="CalyxOS/branding" />
   <project name="CalyxOS/calyx-fdroid-repo" />
   <project name="CalyxOS/calyx-fdroid-repo-apks" />
+  <project name="CalyxOS/calyx-fdroid-repo-barbet" />
   <project name="CalyxOS/calyx-fdroid-repo-blueline" />
   <project name="CalyxOS/calyx-fdroid-repo-bonito" />
   <project name="CalyxOS/calyx-fdroid-repo-bramble" />
@@ -33,6 +34,9 @@
   <project name="CalyxOS/ci-images-fdroid-repo" />
   <project name="CalyxOS/device-flasher" />
   <project name="CalyxOS/device_common" />
+  <project name="CalyxOS/device_google_barbet" />
+  <project name="CalyxOS/device_google_barbet-kernel" />
+  <project name="CalyxOS/device_google_barbet-sepolicy" />
   <project name="CalyxOS/device_google_bonito" />
   <project name="CalyxOS/device_google_bonito-kernel" />
   <project name="CalyxOS/device_google_bonito-sepolicy" />
@@ -60,10 +64,13 @@
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
+  <project name="CalyxOS/fdroid-repo-emulator" />
   <project name="CalyxOS/gerrit_test" />
   <project name="CalyxOS/gitlab-oss" />
   <project name="CalyxOS/infra" />
   <project name="CalyxOS/kernel_build" />
+  <project name="CalyxOS/kernel_google_barbet" />
+  <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
   <project name="CalyxOS/kernel_google_coral" />
   <project name="CalyxOS/kernel_google_msm-4.9" />
   <project name="CalyxOS/kernel_google_msm-4.9_drivers_staging_qcacld-3.0" />
@@ -72,6 +79,7 @@
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
   <project name="CalyxOS/kernel_google_sunfish" />
   <project name="CalyxOS/kernel_google_sunfish_drivers_staging_fts" />
+  <project name="CalyxOS/kernel_google_sunfish_techpack_audio" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
@@ -127,6 +135,8 @@
   <project name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Backgrounds" />
   <project name="CalyxOS/platform_packages_apps_Bluetooth" />
+  <project name="CalyxOS/platform_packages_apps_Bubbles" />
+  <project name="CalyxOS/platform_packages_apps_Buttercup" />
   <project name="CalyxOS/platform_packages_apps_Camera2" />
   <project name="CalyxOS/platform_packages_apps_CarrierConfig" />
   <project name="CalyxOS/platform_packages_apps_CellBroadcastReceiver" />
@@ -135,6 +145,7 @@
   <project name="CalyxOS/platform_packages_apps_Datura" />
   <project name="CalyxOS/platform_packages_apps_DeskClock" />
   <project name="CalyxOS/platform_packages_apps_Dialer" />
+  <project name="CalyxOS/platform_packages_apps_DocumentsUI" />
   <project name="CalyxOS/platform_packages_apps_Eleven" />
   <project name="CalyxOS/platform_packages_apps_ElmyraService" />
   <project name="CalyxOS/platform_packages_apps_EmergencyInfo" />
@@ -177,6 +188,7 @@
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
+  <project name="CalyxOS/platform_prebuilts_gas_linux-x86" />
   <project name="CalyxOS/platform_prebuilts_kernel-build-tools" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
@@ -201,6 +213,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/wallpapers" />
   <project name="CalyxOS/weblate/bitmask_android" />
+  <project name="CalyxOS/weblate/calyxosdotorg" />
   <project name="CalyxOS/weblate/l10n_test" />
   <project name="CalyxOS/weblate/platform_frameworks_base" />
   <project name="CalyxOS/weblate/platform_packages_apps_contacts" />
