@@ -15,12 +15,11 @@ except KeyError:
     print("Please set the GITLAB_TOKEN environment variable")
     exit(1)
 
-glab = Gitlab(f'https://gitlab.com', p)
-groups = glab.groups.list()
-groupname = "CalyxOS"
-for group in groups:
-    if group.name == groupname:
-        projects = group.projects.list(all=True, archived=False, visibility="public", include_subgroups=True)
+GITLAB_GROUP_ID = 3642190
+
+gl = Gitlab(f'https://gitlab.com', p)
+gl_group = gl.groups.get(GITLAB_GROUP_ID)
+projects = gl_group.projects.list(all=True, archived=False, visibility="public", include_subgroups=True)
 
 file = open("default.xml", "w")
 file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
