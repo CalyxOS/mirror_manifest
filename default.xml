@@ -9,6 +9,7 @@
            sync-j="4" />
 
   <project name="CalyxOS/.github" />
+  <project name="CalyxOS/apks-fdroid-repo" />
   <project name="CalyxOS/bitmask_android" />
   <project name="CalyxOS/blossom" />
   <project name="CalyxOS/branding" />
@@ -64,7 +65,9 @@
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
+  <project name="CalyxOS/fdroid-repo-common" />
   <project name="CalyxOS/fdroid-repo-emulator" />
+  <project name="CalyxOS/fdroid-repo-setupwizard" />
   <project name="CalyxOS/gerrit_test" />
   <project name="CalyxOS/gitlab-oss" />
   <project name="CalyxOS/infra" />
@@ -97,6 +100,7 @@
   <project name="CalyxOS/platform_external_ant-wireless_ant_service" />
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
   <project name="CalyxOS/platform_external_ant-wireless_hidl" />
+  <project name="CalyxOS/platform_external_calyx_GCamPhotosPreview" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
@@ -202,6 +206,7 @@
   <project name="CalyxOS/release" />
   <project name="CalyxOS/releases" />
   <project name="CalyxOS/scripts" />
+  <project name="CalyxOS/scripts-fdroid-repo" />
   <project name="CalyxOS/vendor_android-prepare-vendor" />
   <project name="CalyxOS/vendor_calyx" />
   <project name="CalyxOS/vendor_codeaurora_telephony" />
