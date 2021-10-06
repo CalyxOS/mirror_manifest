@@ -105,9 +105,12 @@
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libexif" />
+  <project name="CalyxOS/platform_external_microg_DejaVu" />
   <project name="CalyxOS/platform_external_microg_FakeStore" />
   <project name="CalyxOS/platform_external_microg_GmsCore" />
   <project name="CalyxOS/platform_external_microg_GsfProxy" />
+  <project name="CalyxOS/platform_external_microg_IchnaeaNlpBackend" />
+  <project name="CalyxOS/platform_external_microg_NominatimGeocoderBackend" />
   <project name="CalyxOS/platform_external_microg_UnifiedNlp" />
   <project name="CalyxOS/platform_external_muzei_blossom" />
   <project name="CalyxOS/platform_external_muzei_muzei" />
@@ -176,6 +179,7 @@
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
+  <project name="CalyxOS/platform_packages_modules_Permission" />
   <project name="CalyxOS/platform_packages_providers_ContactsProvider" />
   <project name="CalyxOS/platform_packages_providers_CrossProfileProvider" />
   <project name="CalyxOS/platform_packages_providers_DownloadProvider" />
