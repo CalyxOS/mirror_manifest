@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f0c00c4_96867db2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-10-21T12:59:14Z",
+      "side": 1,
+      "message": "I had a \u0027gerrit\u0027 remote locally, that works too for \u0027git-review\u0027",
+      "revId": "7e0ccc244d3dbdd1c4725514bdd55f865a52cc79",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
