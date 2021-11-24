@@ -35,6 +35,7 @@
   <project name="CalyxOS/chromium-patches" />
   <project name="CalyxOS/ci-images-fdroid-repo" />
   <project name="CalyxOS/device-flasher" />
+  <project name="CalyxOS/device_calyx_sepolicy" />
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
@@ -50,7 +51,11 @@
   <project name="CalyxOS/device_google_crosshatch" />
   <project name="CalyxOS/device_google_crosshatch-kernel" />
   <project name="CalyxOS/device_google_crosshatch-sepolicy" />
+  <project name="CalyxOS/device_google_gs-common" />
+  <project name="CalyxOS/device_google_gs101" />
+  <project name="CalyxOS/device_google_gs101-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
+  <project name="CalyxOS/device_google_raviole" />
   <project name="CalyxOS/device_google_redbull" />
   <project name="CalyxOS/device_google_redbull-kernel" />
   <project name="CalyxOS/device_google_redbull-sepolicy" />
@@ -86,6 +91,7 @@
   <project name="CalyxOS/kernel_google_sunfish_drivers_staging_fts" />
   <project name="CalyxOS/kernel_google_sunfish_techpack_audio" />
   <project name="CalyxOS/kernel_google_wahoo" />
+  <project name="CalyxOS/kernel_manifest" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
   <project name="CalyxOS/l10n_test" />
@@ -116,6 +122,7 @@
   <project name="CalyxOS/platform_external_microg_UnifiedNlp" />
   <project name="CalyxOS/platform_external_muzei_blossom" />
   <project name="CalyxOS/platform_external_muzei_muzei" />
+  <project name="CalyxOS/platform_external_robolectric-shadows" />
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_frameworks_av" />
@@ -130,6 +137,7 @@
   <project name="CalyxOS/platform_hardware_knowles_athletico_sound_trigger_hal" />
   <project name="CalyxOS/platform_hardware_libhardware" />
   <project name="CalyxOS/platform_hardware_libhardware_legacy" />
+  <project name="CalyxOS/platform_hardware_nxp_nfc" />
   <project name="CalyxOS/platform_hardware_qcom-caf_bt" />
   <project name="CalyxOS/platform_hardware_qcom-caf_common" />
   <project name="CalyxOS/platform_hardware_qcom-caf_msm8998_audio" />
@@ -147,6 +155,7 @@
   <project name="CalyxOS/platform_packages_apps_Bluetooth" />
   <project name="CalyxOS/platform_packages_apps_Bubbles" />
   <project name="CalyxOS/platform_packages_apps_Buttercup" />
+  <project name="CalyxOS/platform_packages_apps_CalyxParts" />
   <project name="CalyxOS/platform_packages_apps_Camera2" />
   <project name="CalyxOS/platform_packages_apps_CarrierConfig" />
   <project name="CalyxOS/platform_packages_apps_CellBroadcastReceiver" />
@@ -178,16 +187,21 @@
   <project name="CalyxOS/platform_packages_apps_SimpleDeviceConfig" />
   <project name="CalyxOS/platform_packages_apps_Stk" />
   <project name="CalyxOS/platform_packages_apps_StorageManager" />
+  <project name="CalyxOS/platform_packages_apps_SystemUpdater" />
   <project name="CalyxOS/platform_packages_apps_ThemePicker" />
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
   <project name="CalyxOS/platform_packages_modules_Connectivity" />
   <project name="CalyxOS/platform_packages_modules_Permission" />
+  <project name="CalyxOS/platform_packages_modules_Wifi" />
+  <project name="CalyxOS/platform_packages_modules_common" />
+  <project name="CalyxOS/platform_packages_overlays_Calyx" />
   <project name="CalyxOS/platform_packages_providers_ContactsProvider" />
   <project name="CalyxOS/platform_packages_providers_CrossProfileProvider" />
   <project name="CalyxOS/platform_packages_providers_DownloadProvider" />
   <project name="CalyxOS/platform_packages_providers_MediaProvider" />
+  <project name="CalyxOS/platform_packages_providers_TelephonyProvider" />
   <project name="CalyxOS/platform_packages_resources_devicesettings" />
   <project name="CalyxOS/platform_packages_services_Telecomm" />
   <project name="CalyxOS/platform_packages_services_Telephony" />
