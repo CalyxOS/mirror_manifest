@@ -56,6 +56,7 @@
   <project name="CalyxOS/device_google_gs101-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
   <project name="CalyxOS/device_google_raviole" />
+  <project name="CalyxOS/device_google_raviole-kernel" />
   <project name="CalyxOS/device_google_redbull" />
   <project name="CalyxOS/device_google_redbull-kernel" />
   <project name="CalyxOS/device_google_redbull-sepolicy" />
@@ -82,9 +83,11 @@
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
   <project name="CalyxOS/kernel_google_coral" />
+  <project name="CalyxOS/kernel_google_msm-4.14" />
   <project name="CalyxOS/kernel_google_msm-4.9" />
   <project name="CalyxOS/kernel_google_msm-4.9_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_msm-4.9_techpack_audio" />
+  <project name="CalyxOS/kernel_google_raviole" />
   <project name="CalyxOS/kernel_google_redbull" />
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
   <project name="CalyxOS/kernel_google_sunfish" />
@@ -205,6 +208,7 @@
   <project name="CalyxOS/platform_packages_resources_devicesettings" />
   <project name="CalyxOS/platform_packages_services_Telecomm" />
   <project name="CalyxOS/platform_packages_services_Telephony" />
+  <project name="CalyxOS/platform_prebuilts_boot-artifacts" />
   <project name="CalyxOS/platform_prebuilts_build-tools" />
   <project name="CalyxOS/platform_prebuilts_calyx" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm" />
