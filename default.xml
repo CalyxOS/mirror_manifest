@@ -150,7 +150,13 @@
   <project name="CalyxOS/platform_hardware_qcom_audio" />
   <project name="CalyxOS/platform_hardware_qcom_bootctrl" />
   <project name="CalyxOS/platform_hardware_qcom_data_ipacfg-mgr" />
+  <project name="CalyxOS/platform_hardware_qcom_sdm845_display" />
+  <project name="CalyxOS/platform_hardware_qcom_sdm845_media" />
+  <project name="CalyxOS/platform_hardware_qcom_sm7250_display" />
+  <project name="CalyxOS/platform_hardware_qcom_sm7250_media" />
   <project name="CalyxOS/platform_hardware_qcom_sm8150_data_ipacfg-mgr" />
+  <project name="CalyxOS/platform_hardware_qcom_sm8150_display" />
+  <project name="CalyxOS/platform_hardware_qcom_sm8150_media" />
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
   <project name="CalyxOS/platform_manifest" />
   <project name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" />
@@ -240,8 +246,12 @@
   <project name="CalyxOS/vendor_qcom_opensource_audio" />
   <project name="CalyxOS/vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project name="CalyxOS/vendor_qcom_opensource_dataservices" />
+  <project name="CalyxOS/vendor_qcom_opensource_display" />
+  <project name="CalyxOS/vendor_qcom_opensource_display-commonsys" />
+  <project name="CalyxOS/vendor_qcom_opensource_display-commonsys-intf" />
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
+  <project name="CalyxOS/vendor_qcom_opensource_thermal-engine" />
   <project name="CalyxOS/wallpapers" />
   <project name="CalyxOS/weblate/bitmask_android" />
   <project name="CalyxOS/weblate/calyxosdotorg" />
