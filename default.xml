@@ -40,6 +40,7 @@
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
   <project name="CalyxOS/device_google_barbet-sepolicy" />
+  <project name="CalyxOS/device_google_blueline" />
   <project name="CalyxOS/device_google_bonito" />
   <project name="CalyxOS/device_google_bonito-kernel" />
   <project name="CalyxOS/device_google_bonito-sepolicy" />
@@ -51,10 +52,13 @@
   <project name="CalyxOS/device_google_crosshatch" />
   <project name="CalyxOS/device_google_crosshatch-kernel" />
   <project name="CalyxOS/device_google_crosshatch-sepolicy" />
+  <project name="CalyxOS/device_google_flame" />
   <project name="CalyxOS/device_google_gs-common" />
   <project name="CalyxOS/device_google_gs101" />
   <project name="CalyxOS/device_google_gs101-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
+  <project name="CalyxOS/device_google_oriole" />
+  <project name="CalyxOS/device_google_raven" />
   <project name="CalyxOS/device_google_raviole" />
   <project name="CalyxOS/device_google_raviole-kernel" />
   <project name="CalyxOS/device_google_redbull" />
@@ -62,6 +66,7 @@
   <project name="CalyxOS/device_google_redbull-sepolicy" />
   <project name="CalyxOS/device_google_redfin" />
   <project name="CalyxOS/device_google_redfin-sepolicy" />
+  <project name="CalyxOS/device_google_sargo" />
   <project name="CalyxOS/device_google_sunfish" />
   <project name="CalyxOS/device_google_sunfish-kernel" />
   <project name="CalyxOS/device_google_sunfish-sepolicy" />
@@ -106,11 +111,13 @@
   <project name="CalyxOS/platform_calyx-sdk" />
   <project name="CalyxOS/platform_development" />
   <project name="CalyxOS/platform_external_aac" />
+  <project name="CalyxOS/platform_external_android-nn-driver" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_client" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_native" />
   <project name="CalyxOS/platform_external_ant-wireless_ant_service" />
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
   <project name="CalyxOS/platform_external_ant-wireless_hidl" />
+  <project name="CalyxOS/platform_external_armnn" />
   <project name="CalyxOS/platform_external_calyx_GCamPhotosPreview" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_json-c" />
