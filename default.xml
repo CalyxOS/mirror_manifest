@@ -106,6 +106,7 @@
   <project name="CalyxOS/mirror_manifest" />
   <project name="CalyxOS/muzei" />
   <project name="CalyxOS/platform_bionic" />
+  <project name="CalyxOS/platform_bootable_recovery" />
   <project name="CalyxOS/platform_build" />
   <project name="CalyxOS/platform_build_soong" />
   <project name="CalyxOS/platform_calyx-sdk" />
@@ -122,6 +123,7 @@
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
+  <project name="CalyxOS/platform_external_libavc" />
   <project name="CalyxOS/platform_external_libexif" />
   <project name="CalyxOS/platform_external_microg_DejaVu" />
   <project name="CalyxOS/platform_external_microg_FakeStore" />
@@ -135,6 +137,7 @@
   <project name="CalyxOS/platform_external_robolectric-shadows" />
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
+  <project name="CalyxOS/platform_external_tremolo" />
   <project name="CalyxOS/platform_frameworks_av" />
   <project name="CalyxOS/platform_frameworks_base" />
   <project name="CalyxOS/platform_frameworks_libs_net" />
@@ -189,6 +192,7 @@
   <project name="CalyxOS/platform_packages_apps_F-DroidPrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Firewall" />
   <project name="CalyxOS/platform_packages_apps_Gallery2" />
+  <project name="CalyxOS/platform_packages_apps_KeyChain" />
   <project name="CalyxOS/platform_packages_apps_Launcher3" />
   <project name="CalyxOS/platform_packages_apps_ManagedProvisioning" />
   <project name="CalyxOS/platform_packages_apps_Messaging" />
@@ -230,6 +234,7 @@
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_x86" />
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
+  <project name="CalyxOS/platform_prebuilts_calyx_tmp" />
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
   <project name="CalyxOS/platform_prebuilts_gas_linux-x86" />
   <project name="CalyxOS/platform_prebuilts_kernel-build-tools" />
@@ -240,6 +245,7 @@
   <project name="CalyxOS/platform_system_netd" />
   <project name="CalyxOS/platform_system_nfc" />
   <project name="CalyxOS/platform_system_sepolicy" />
+  <project name="CalyxOS/platform_system_tools_aidl" />
   <project name="CalyxOS/platform_system_update_engine" />
   <project name="CalyxOS/platform_tools_extract-utils" />
   <project name="CalyxOS/release" />
