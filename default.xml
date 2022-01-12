@@ -93,6 +93,7 @@
   <project name="CalyxOS/kernel_google_msm-4.9_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_msm-4.9_techpack_audio" />
   <project name="CalyxOS/kernel_google_raviole" />
+  <project name="CalyxOS/kernel_google_raviole-gki" />
   <project name="CalyxOS/kernel_google_redbull" />
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
   <project name="CalyxOS/kernel_google_sunfish" />
@@ -146,6 +147,8 @@
   <project name="CalyxOS/platform_frameworks_opt_telephony" />
   <project name="CalyxOS/platform_frameworks_opt_timezonepicker" />
   <project name="CalyxOS/platform_hardware_calyx_interfaces" />
+  <project name="CalyxOS/platform_hardware_google_pixel" />
+  <project name="CalyxOS/platform_hardware_google_pixel-sepolicy" />
   <project name="CalyxOS/platform_hardware_interfaces" />
   <project name="CalyxOS/platform_hardware_knowles_athletico_sound_trigger_hal" />
   <project name="CalyxOS/platform_hardware_libhardware" />
@@ -270,6 +273,9 @@
   <project name="CalyxOS/weblate/calyxosdotorg" />
   <project name="CalyxOS/weblate/l10n_test" />
   <project name="CalyxOS/weblate/platform_frameworks_base" />
+  <project name="CalyxOS/weblate/platform_packages_apps_CellBroadcastReceiver" />
+  <project name="CalyxOS/weblate/platform_packages_apps_Firewall" />
+  <project name="CalyxOS/weblate/platform_packages_apps_Launcher3" />
   <project name="CalyxOS/weblate/platform_packages_apps_contacts" />
   <project name="CalyxOS/weblate/platform_packages_apps_dialer" />
   <project name="CalyxOS/weblate/platform_packages_apps_panictrigger" />
