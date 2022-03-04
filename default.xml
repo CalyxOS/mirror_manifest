@@ -37,6 +37,7 @@
   <project name="CalyxOS/device-flasher" />
   <project name="CalyxOS/device_calyx_sepolicy" />
   <project name="CalyxOS/device_common" />
+  <project name="CalyxOS/device_fairphone_FP4" />
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
   <project name="CalyxOS/device_google_barbet-sepolicy" />
@@ -73,6 +74,10 @@
   <project name="CalyxOS/device_google_taimen" />
   <project name="CalyxOS/device_google_wahoo" />
   <project name="CalyxOS/device_google_wahoo-kernel" />
+  <project name="CalyxOS/device_oneplus_kebab" />
+  <project name="CalyxOS/device_oneplus_lemonade" />
+  <project name="CalyxOS/device_oneplus_sm8250-common" />
+  <project name="CalyxOS/device_oneplus_sm8350-common" />
   <project name="CalyxOS/device_qcom_sepolicy" />
   <project name="CalyxOS/device_qcom_sepolicy-legacy-um" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr" />
@@ -87,6 +92,7 @@
   <project name="CalyxOS/infra" />
   <project name="CalyxOS/install.calyxos.org" />
   <project name="CalyxOS/kernel_build" />
+  <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
   <project name="CalyxOS/kernel_google_coral" />
@@ -103,6 +109,8 @@
   <project name="CalyxOS/kernel_google_sunfish_techpack_audio" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_manifest" />
+  <project name="CalyxOS/kernel_oneplus_sm8250" />
+  <project name="CalyxOS/kernel_oneplus_sm8350" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
   <project name="CalyxOS/l10n_test" />
@@ -157,6 +165,7 @@
   <project name="CalyxOS/platform_hardware_libhardware" />
   <project name="CalyxOS/platform_hardware_libhardware_legacy" />
   <project name="CalyxOS/platform_hardware_nxp_nfc" />
+  <project name="CalyxOS/platform_hardware_oneplus" />
   <project name="CalyxOS/platform_hardware_qcom-caf_bootctrl" />
   <project name="CalyxOS/platform_hardware_qcom-caf_bt" />
   <project name="CalyxOS/platform_hardware_qcom-caf_common" />
