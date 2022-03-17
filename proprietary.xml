@@ -4,6 +4,7 @@
           fetch="ssh://git@gitlab.com" />
 
   <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_firmware_jasmine_sprout" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_barbet" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_blueline" remote="gitlab-priv" />
@@ -31,6 +32,10 @@
   <project name="CalyxOS/proprietary_vendor_google_devices_sunfish" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_devices_taimen" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_devices_walleye" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_kebab" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_lemonade" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_sm8250-common" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_sm8350-common" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_xiaomi" remote="gitlab-priv" />
 
 </manifest>
