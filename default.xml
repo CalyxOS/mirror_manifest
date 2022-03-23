@@ -131,6 +131,7 @@
   <project name="CalyxOS/platform_external_ant-wireless_hidl" />
   <project name="CalyxOS/platform_external_armnn" />
   <project name="CalyxOS/platform_external_calyx_GCamPhotosPreview" />
+  <project name="CalyxOS/platform_external_calyx_chromium" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
@@ -146,6 +147,7 @@
   <project name="CalyxOS/platform_external_muzei_blossom" />
   <project name="CalyxOS/platform_external_muzei_muzei" />
   <project name="CalyxOS/platform_external_robolectric-shadows" />
+  <project name="CalyxOS/platform_external_setupcompat" />
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_external_tremolo" />
@@ -219,6 +221,7 @@
   <project name="CalyxOS/platform_packages_apps_F-DroidPrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Firewall" />
   <project name="CalyxOS/platform_packages_apps_Gallery2" />
+  <project name="CalyxOS/platform_packages_apps_ImsServiceEntitlement" />
   <project name="CalyxOS/platform_packages_apps_KeyChain" />
   <project name="CalyxOS/platform_packages_apps_Launcher3" />
   <project name="CalyxOS/platform_packages_apps_ManagedProvisioning" />
