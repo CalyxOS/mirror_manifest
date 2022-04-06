@@ -76,6 +76,7 @@
   <project name="CalyxOS/device_google_wahoo-kernel" />
   <project name="CalyxOS/device_oneplus_kebab" />
   <project name="CalyxOS/device_oneplus_lemonade" />
+  <project name="CalyxOS/device_oneplus_lemonadep" />
   <project name="CalyxOS/device_oneplus_sm8250-common" />
   <project name="CalyxOS/device_oneplus_sm8350-common" />
   <project name="CalyxOS/device_qcom_sepolicy" />
