@@ -286,6 +286,7 @@
   <project name="CalyxOS/vendor_android-prepare-vendor" />
   <project name="CalyxOS/vendor_calyx" />
   <project name="CalyxOS/vendor_codeaurora_telephony" />
+  <project name="CalyxOS/vendor_crowdin" />
   <project name="CalyxOS/vendor_google_devices" />
   <project name="CalyxOS/vendor_qcom_opensource_audio" />
   <project name="CalyxOS/vendor_qcom_opensource_audio-hal_st-hal" />
