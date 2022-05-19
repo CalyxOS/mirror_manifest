@@ -260,6 +260,11 @@
   <project name="CalyxOS/platform_prebuilts_boot-artifacts" />
   <project name="CalyxOS/platform_prebuilts_build-tools" />
   <project name="CalyxOS/platform_prebuilts_calyx" />
+  <project name="CalyxOS/platform_prebuilts_calyx2_chromium_arm64" />
+  <project name="CalyxOS/platform_prebuilts_calyx2_chromium_x64" />
+  <project name="CalyxOS/platform_prebuilts_calyx2_chromium_x86" />
+  <project name="CalyxOS/platform_prebuilts_calyx2_fdroid" />
+  <project name="CalyxOS/platform_prebuilts_calyx2_microg" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_x64" />
