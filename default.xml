@@ -204,6 +204,7 @@
   <project name="CalyxOS/platform_packages_apps_AudioFX" />
   <project name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Backgrounds" />
+  <project name="CalyxOS/platform_packages_apps_Bellis" />
   <project name="CalyxOS/platform_packages_apps_Bluetooth" />
   <project name="CalyxOS/platform_packages_apps_Bubbles" />
   <project name="CalyxOS/platform_packages_apps_Buttercup" />
