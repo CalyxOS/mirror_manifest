@@ -41,6 +41,9 @@
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
   <project name="CalyxOS/device_google_barbet-sepolicy" />
+  <project name="CalyxOS/device_google_bluejay" />
+  <project name="CalyxOS/device_google_bluejay-kernel" />
+  <project name="CalyxOS/device_google_bluejay-sepolicy" />
   <project name="CalyxOS/device_google_blueline" />
   <project name="CalyxOS/device_google_bonito" />
   <project name="CalyxOS/device_google_bonito-kernel" />
@@ -93,6 +96,7 @@
   <project name="CalyxOS/infra" />
   <project name="CalyxOS/install.calyxos.org" />
   <project name="CalyxOS/kernel_build" />
+  <project name="CalyxOS/kernel_devices_google_bluejay" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
