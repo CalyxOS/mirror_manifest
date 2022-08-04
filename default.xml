@@ -100,6 +100,8 @@
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
+  <project name="CalyxOS/kernel_google_bluejay" />
+  <project name="CalyxOS/kernel_google_bluejay-gki" />
   <project name="CalyxOS/kernel_google_coral" />
   <project name="CalyxOS/kernel_google_msm-4.14" />
   <project name="CalyxOS/kernel_google_msm-4.9" />
@@ -282,6 +284,7 @@
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
   <project name="CalyxOS/platform_prebuilts_gas_linux-x86" />
   <project name="CalyxOS/platform_prebuilts_kernel-build-tools" />
+  <project name="CalyxOS/platform_prebuilts_misc" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
