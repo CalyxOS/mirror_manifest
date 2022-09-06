@@ -296,6 +296,7 @@
   <project name="CalyxOS/platform_system_sepolicy" />
   <project name="CalyxOS/platform_system_tools_aidl" />
   <project name="CalyxOS/platform_system_update_engine" />
+  <project name="CalyxOS/platform_system_vold" />
   <project name="CalyxOS/platform_tools_extract-utils" />
   <project name="CalyxOS/release" />
   <project name="CalyxOS/releases" />
