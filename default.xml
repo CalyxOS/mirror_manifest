@@ -50,6 +50,7 @@
   <project name="CalyxOS/device_google_bonito-sepolicy" />
   <project name="CalyxOS/device_google_bramble" />
   <project name="CalyxOS/device_google_bramble-sepolicy" />
+  <project name="CalyxOS/device_google_cheetah" />
   <project name="CalyxOS/device_google_coral" />
   <project name="CalyxOS/device_google_coral-kernel" />
   <project name="CalyxOS/device_google_coral-sepolicy" />
@@ -60,8 +61,14 @@
   <project name="CalyxOS/device_google_gs-common" />
   <project name="CalyxOS/device_google_gs101" />
   <project name="CalyxOS/device_google_gs101-sepolicy" />
+  <project name="CalyxOS/device_google_gs201" />
+  <project name="CalyxOS/device_google_gs201-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
   <project name="CalyxOS/device_google_oriole" />
+  <project name="CalyxOS/device_google_pantah" />
+  <project name="CalyxOS/device_google_pantah-kernel" />
+  <project name="CalyxOS/device_google_pantah-sepolicy" />
+  <project name="CalyxOS/device_google_panther" />
   <project name="CalyxOS/device_google_raven" />
   <project name="CalyxOS/device_google_raviole" />
   <project name="CalyxOS/device_google_raviole-kernel" />
@@ -211,6 +218,7 @@
   <project name="CalyxOS/platform_hardware_qcom_sm8150_media" />
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
   <project name="CalyxOS/platform_manifest" />
+  <project name="CalyxOS/platform_packages_apps_Aperture" />
   <project name="CalyxOS/platform_packages_apps_AudioFX" />
   <project name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Backgrounds" />
