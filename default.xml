@@ -111,6 +111,8 @@
   <project name="CalyxOS/kernel_google_bluejay" />
   <project name="CalyxOS/kernel_google_bluejay-gki" />
   <project name="CalyxOS/kernel_google_coral" />
+  <project name="CalyxOS/kernel_google_gs101" />
+  <project name="CalyxOS/kernel_google_gs201" />
   <project name="CalyxOS/kernel_google_msm-4.14" />
   <project name="CalyxOS/kernel_google_msm-4.9" />
   <project name="CalyxOS/kernel_google_msm-4.9_drivers_staging_qcacld-3.0" />
