@@ -197,6 +197,9 @@
   <project name="CalyxOS/platform_hardware_qcom-caf_msm8998_audio" />
   <project name="CalyxOS/platform_hardware_qcom-caf_msm8998_display" />
   <project name="CalyxOS/platform_hardware_qcom-caf_msm8998_media" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sdm845_audio" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sdm845_display" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sdm845_media" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8150_audio" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8150_display" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8150_media" />
