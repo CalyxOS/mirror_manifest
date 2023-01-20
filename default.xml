@@ -149,9 +149,11 @@
   <project name="CalyxOS/platform_external_armnn" />
   <project name="CalyxOS/platform_external_calyx_GCamPhotosPreview" />
   <project name="CalyxOS/platform_external_calyx_chromium" />
+  <project name="CalyxOS/platform_external_calyx_lupin" />
   <project name="CalyxOS/platform_external_exfatprogs" />
   <project name="CalyxOS/platform_external_expat" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
+  <project name="CalyxOS/platform_external_gson" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libavc" />
@@ -299,12 +301,14 @@
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_x64" />
   <project name="CalyxOS/platform_prebuilts_calyx_chromium_x86" />
   <project name="CalyxOS/platform_prebuilts_calyx_fdroid" />
+  <project name="CalyxOS/platform_prebuilts_calyx_lupin" />
   <project name="CalyxOS/platform_prebuilts_calyx_microg" />
   <project name="CalyxOS/platform_prebuilts_calyx_tmp" />
   <project name="CalyxOS/platform_prebuilts_extract-tools" />
   <project name="CalyxOS/platform_prebuilts_gas_linux-x86" />
   <project name="CalyxOS/platform_prebuilts_kernel-build-tools" />
   <project name="CalyxOS/platform_prebuilts_misc" />
+  <project name="CalyxOS/platform_prebuilts_openeuicc-deps" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
   <project name="CalyxOS/platform_system_bpf" />
   <project name="CalyxOS/platform_system_bt" />
