@@ -93,6 +93,7 @@
   <project name="CalyxOS/device_qcom_sepolicy-legacy-um" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr-legacy-um" />
+  <project name="CalyxOS/device_shift_axolotl" />
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
@@ -128,6 +129,7 @@
   <project name="CalyxOS/kernel_manifest" />
   <project name="CalyxOS/kernel_oneplus_sm8250" />
   <project name="CalyxOS/kernel_oneplus_sm8350" />
+  <project name="CalyxOS/kernel_shift_sdm845" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
   <project name="CalyxOS/l10n_test" />
@@ -344,6 +346,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_display" />
   <project name="CalyxOS/vendor_qcom_opensource_display-commonsys" />
   <project name="CalyxOS/vendor_qcom_opensource_display-commonsys-intf" />
+  <project name="CalyxOS/vendor_qcom_opensource_fm-commonsys" />
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/vendor_qcom_opensource_thermal-engine" />
