@@ -318,6 +318,7 @@
   <project name="CalyxOS/platform_system_bpf" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
+  <project name="CalyxOS/platform_system_libhidl" />
   <project name="CalyxOS/platform_system_libufdt" />
   <project name="CalyxOS/platform_system_logging" />
   <project name="CalyxOS/platform_system_netd" />
