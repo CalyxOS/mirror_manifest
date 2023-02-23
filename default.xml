@@ -102,6 +102,7 @@
   <project name="CalyxOS/fdroid-repo-setupwizard" />
   <project name="CalyxOS/gerrit_test" />
   <project name="CalyxOS/gitlab-oss" />
+  <project name="CalyxOS/help" />
   <project name="CalyxOS/infra" />
   <project name="CalyxOS/install.calyxos.org" />
   <project name="CalyxOS/kernel_build" />
@@ -315,6 +316,7 @@
   <project name="CalyxOS/platform_prebuilts_misc" />
   <project name="CalyxOS/platform_prebuilts_openeuicc-deps" />
   <project name="CalyxOS/platform_prebuilts_tools-lineage" />
+  <project name="CalyxOS/platform_system_apex" />
   <project name="CalyxOS/platform_system_bpf" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_core" />
