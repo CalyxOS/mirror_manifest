@@ -64,6 +64,9 @@
   <project name="CalyxOS/device_google_gs101-sepolicy" />
   <project name="CalyxOS/device_google_gs201" />
   <project name="CalyxOS/device_google_gs201-sepolicy" />
+  <project name="CalyxOS/device_google_lynx" />
+  <project name="CalyxOS/device_google_lynx-kernel" />
+  <project name="CalyxOS/device_google_lynx-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
   <project name="CalyxOS/device_google_oriole" />
   <project name="CalyxOS/device_google_pantah" />
