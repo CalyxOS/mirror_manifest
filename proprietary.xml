@@ -15,6 +15,7 @@
   <project name="CalyxOS/proprietary_vendor_google_coral" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_crosshatch" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_flame" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_google_lynx" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_oriole" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_panther" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_raven" remote="gitlab-priv" />
