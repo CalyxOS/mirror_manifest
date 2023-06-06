@@ -281,6 +281,7 @@
   <project name="CalyxOS/platform_packages_apps_StorageManager" />
   <project name="CalyxOS/platform_packages_apps_SystemUpdater" />
   <project name="CalyxOS/platform_packages_apps_ThemePicker" />
+  <project name="CalyxOS/platform_packages_apps_Traceur" />
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
