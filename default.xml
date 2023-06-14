@@ -111,6 +111,7 @@
   <project name="CalyxOS/install.calyxos.org" />
   <project name="CalyxOS/kernel_build" />
   <project name="CalyxOS/kernel_devices_google_bluejay" />
+  <project name="CalyxOS/kernel_devices_google_lynx" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
