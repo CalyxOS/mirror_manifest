@@ -86,6 +86,9 @@
   <project name="CalyxOS/device_google_sunfish-kernel" />
   <project name="CalyxOS/device_google_sunfish-sepolicy" />
   <project name="CalyxOS/device_google_taimen" />
+  <project name="CalyxOS/device_google_tangorpro" />
+  <project name="CalyxOS/device_google_tangorpro-kernel" />
+  <project name="CalyxOS/device_google_tangorpro-sepolicy" />
   <project name="CalyxOS/device_google_wahoo" />
   <project name="CalyxOS/device_google_wahoo-kernel" />
   <project name="CalyxOS/device_oneplus_kebab" />
@@ -112,6 +115,7 @@
   <project name="CalyxOS/kernel_build" />
   <project name="CalyxOS/kernel_devices_google_bluejay" />
   <project name="CalyxOS/kernel_devices_google_lynx" />
+  <project name="CalyxOS/kernel_devices_google_tangorpro" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
