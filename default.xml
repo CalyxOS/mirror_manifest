@@ -279,6 +279,7 @@
   <project name="CalyxOS/platform_packages_apps_Nfc" />
   <project name="CalyxOS/platform_packages_apps_OpenEUICC" />
   <project name="CalyxOS/platform_packages_apps_PackageInstaller" />
+  <project name="CalyxOS/platform_packages_apps_Panic" />
   <project name="CalyxOS/platform_packages_apps_Recorder" />
   <project name="CalyxOS/platform_packages_apps_Ripple" />
   <project name="CalyxOS/platform_packages_apps_Seedvault" />
