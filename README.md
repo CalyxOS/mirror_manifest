@@ -2,11 +2,11 @@
 
 ## Using the mirror to sync
 
-Usage: `repo init -u https://gitlab.com/calyxos/mirror_manifest --mirror`
+Usage: `repo init -u https://gitlab.com/CalyxOS/mirror_manifest --mirror`
 
-Once the mirror is synced, you can then run `repo init -u /path/to/mirror/calyxos/manifest.git -b $BRANCHNAME` and sync normally.
+Once the mirror is synced, you can then run `repo init -u /path/to/mirror/CalyxOS/platform_manifest.git -b $BRANCHNAME` and sync normally.
 
-If you want to sync the source quickly but want it to be up-to-date without syncing the mirror every time, then run `repo init -u https://gitlab.com/calyxos/manifest -b $BRANCHNAME --reference=/path/to/mirror/`. This will init the new repo and fetch all the (available) data from the mirror, but will fallback to GitLab if something is missing in the mirror.
+If you want to sync the source quickly but want it to be up-to-date without syncing the mirror every time, then run `repo init -u https://gitlab.com/CalyxOS/platform_manifest -b $BRANCHNAME --reference=/path/to/mirror/`. This will init the new repo and fetch all the (available) data from the mirror, but will fallback to GitLab if something is missing in the mirror.
 
 ## Updating the mirror manifest
 
