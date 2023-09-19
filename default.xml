@@ -189,6 +189,7 @@
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_external_tremolo" />
+  <project name="CalyxOS/platform_external_webp" />
   <project name="CalyxOS/platform_frameworks_av" />
   <project name="CalyxOS/platform_frameworks_base" />
   <project name="CalyxOS/platform_frameworks_libs_net" />
