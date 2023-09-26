@@ -199,6 +199,7 @@
   <project name="CalyxOS/platform_frameworks_libs_systemui" />
   <project name="CalyxOS/platform_frameworks_native" />
   <project name="CalyxOS/platform_frameworks_opt_calendar" />
+  <project name="CalyxOS/platform_frameworks_opt_colorpicker" />
   <project name="CalyxOS/platform_frameworks_opt_net_wifi" />
   <project name="CalyxOS/platform_frameworks_opt_telephony" />
   <project name="CalyxOS/platform_frameworks_opt_timezonepicker" />
