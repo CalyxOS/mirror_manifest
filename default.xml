@@ -94,6 +94,10 @@
   <project name="CalyxOS/device_google_tangorpro-sepolicy" />
   <project name="CalyxOS/device_google_wahoo" />
   <project name="CalyxOS/device_google_wahoo-kernel" />
+  <project name="CalyxOS/device_motorola_devon" />
+  <project name="CalyxOS/device_motorola_hawao" />
+  <project name="CalyxOS/device_motorola_rhode" />
+  <project name="CalyxOS/device_motorola_sm6225-common" />
   <project name="CalyxOS/device_oneplus_kebab" />
   <project name="CalyxOS/device_oneplus_lemonade" />
   <project name="CalyxOS/device_oneplus_lemonadep" />
@@ -143,6 +147,7 @@
   <project name="CalyxOS/kernel_google_sunfish_techpack_audio" />
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_manifest" />
+  <project name="CalyxOS/kernel_motorola_sm6225" />
   <project name="CalyxOS/kernel_oneplus_sm8250" />
   <project name="CalyxOS/kernel_oneplus_sm8350" />
   <project name="CalyxOS/kernel_shift_sdm845" />
@@ -212,6 +217,7 @@
   <project name="CalyxOS/platform_hardware_knowles_athletico_sound_trigger_hal" />
   <project name="CalyxOS/platform_hardware_libhardware" />
   <project name="CalyxOS/platform_hardware_libhardware_legacy" />
+  <project name="CalyxOS/platform_hardware_motorola" />
   <project name="CalyxOS/platform_hardware_nxp_nfc" />
   <project name="CalyxOS/platform_hardware_oneplus" />
   <project name="CalyxOS/platform_hardware_oplus" />
@@ -351,6 +357,7 @@
   <project name="CalyxOS/platform_system_media" />
   <project name="CalyxOS/platform_system_netd" />
   <project name="CalyxOS/platform_system_nfc" />
+  <project name="CalyxOS/platform_system_qcom" />
   <project name="CalyxOS/platform_system_sepolicy" />
   <project name="CalyxOS/platform_system_tools_aidl" />
   <project name="CalyxOS/platform_system_update_engine" />

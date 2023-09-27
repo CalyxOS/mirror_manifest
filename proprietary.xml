@@ -38,6 +38,10 @@
   <project name="CalyxOS/proprietary_vendor_google_devices_sunfish" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_devices_taimen" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_devices_walleye" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_motorola_devon" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_motorola_hawao" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_motorola_rhode" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_motorola_sm6225-common" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_oneplus_kebab" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_oneplus_lemonade" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_oneplus_lemonadep" remote="gitlab-priv" />
