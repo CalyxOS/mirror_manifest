@@ -182,6 +182,7 @@
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libavc" />
   <project name="CalyxOS/platform_external_libexif" />
+  <project name="CalyxOS/platform_external_libvpx" />
   <project name="CalyxOS/platform_external_microg_DejaVu" />
   <project name="CalyxOS/platform_external_microg_FakeStore" />
   <project name="CalyxOS/platform_external_microg_GmsCore" />
