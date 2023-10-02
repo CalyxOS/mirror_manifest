@@ -184,6 +184,7 @@
   <project name="CalyxOS/platform_external_libavc" />
   <project name="CalyxOS/platform_external_libexif" />
   <project name="CalyxOS/platform_external_libvpx" />
+  <project name="CalyxOS/platform_external_libxml2" />
   <project name="CalyxOS/platform_external_microg_DejaVu" />
   <project name="CalyxOS/platform_external_microg_FakeStore" />
   <project name="CalyxOS/platform_external_microg_GmsCore" />
@@ -364,6 +365,7 @@
   <project name="CalyxOS/platform_system_tools_aidl" />
   <project name="CalyxOS/platform_system_update_engine" />
   <project name="CalyxOS/platform_system_vold" />
+  <project name="CalyxOS/platform_tools_apksig" />
   <project name="CalyxOS/platform_tools_extract-utils" />
   <project name="CalyxOS/release" />
   <project name="CalyxOS/releases" />
