@@ -317,6 +317,7 @@
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
   <project name="CalyxOS/platform_packages_modules_Bluetooth" />
   <project name="CalyxOS/platform_packages_modules_Connectivity" />
+  <project name="CalyxOS/platform_packages_modules_IntentResolver" />
   <project name="CalyxOS/platform_packages_modules_NeuralNetworks" />
   <project name="CalyxOS/platform_packages_modules_Permission" />
   <project name="CalyxOS/platform_packages_modules_Uwb" />
