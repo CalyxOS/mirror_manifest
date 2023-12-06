@@ -170,6 +170,7 @@
   <project name="CalyxOS/platform_build" />
   <project name="CalyxOS/platform_build_soong" />
   <project name="CalyxOS/platform_calyx-sdk" />
+  <project name="CalyxOS/platform_cts" />
   <project name="CalyxOS/platform_development" />
   <project name="CalyxOS/platform_external_aac" />
   <project name="CalyxOS/platform_external_android-nn-driver" />
@@ -202,6 +203,7 @@
   <project name="CalyxOS/platform_external_microg_UnifiedNlp" />
   <project name="CalyxOS/platform_external_muzei_blossom" />
   <project name="CalyxOS/platform_external_muzei_muzei" />
+  <project name="CalyxOS/platform_external_pdfium" />
   <project name="CalyxOS/platform_external_robolectric-shadows" />
   <project name="CalyxOS/platform_external_setupcompat" />
   <project name="CalyxOS/platform_external_setupdesign" />
