@@ -408,6 +408,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_display-commonsys" />
   <project name="CalyxOS/vendor_qcom_opensource_display-commonsys-intf" />
   <project name="CalyxOS/vendor_qcom_opensource_fm-commonsys" />
+  <project name="CalyxOS/vendor_qcom_opensource_healthd-ext" />
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/vendor_qcom_opensource_thermal-engine" />
