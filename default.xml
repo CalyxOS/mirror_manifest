@@ -132,6 +132,7 @@
   <project name="CalyxOS/kernel_devices_google_felix" />
   <project name="CalyxOS/kernel_devices_google_lynx" />
   <project name="CalyxOS/kernel_devices_google_tangorpro" />
+  <project name="CalyxOS/kernel_fairphone_qcm6490" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
@@ -295,6 +296,7 @@
   <project name="CalyxOS/platform_packages_apps_F-DroidPrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Firewall" />
   <project name="CalyxOS/platform_packages_apps_Gallery2" />
+  <project name="CalyxOS/platform_packages_apps_Glimpse" />
   <project name="CalyxOS/platform_packages_apps_ImsServiceEntitlement" />
   <project name="CalyxOS/platform_packages_apps_KeyChain" />
   <project name="CalyxOS/platform_packages_apps_Launcher3" />
