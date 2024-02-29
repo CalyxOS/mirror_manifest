@@ -5,6 +5,7 @@
 
   <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_fairphone_FP5" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_firmware_jasmine_sprout" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_barbet" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_bluejay" remote="gitlab-priv" />
