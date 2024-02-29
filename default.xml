@@ -39,6 +39,7 @@
   <project name="CalyxOS/device_calyx_sepolicy" />
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_fairphone_FP4" />
+  <project name="CalyxOS/device_fairphone_FP5" />
   <project name="CalyxOS/device_generic_goldfish" />
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
