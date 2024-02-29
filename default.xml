@@ -9,6 +9,7 @@
            sync-j="4" />
 
   <project name="CalyxOS/.github" />
+  <project name="CalyxOS/apex_manifest" />
   <project name="CalyxOS/apks-fdroid-repo" />
   <project name="CalyxOS/bitmask_android" />
   <project name="CalyxOS/blossom" />
