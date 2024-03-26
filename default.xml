@@ -172,6 +172,7 @@
   <project name="CalyxOS/platform_bionic" />
   <project name="CalyxOS/platform_bootable_recovery" />
   <project name="CalyxOS/platform_build" />
+  <project name="CalyxOS/platform_build_release" />
   <project name="CalyxOS/platform_build_soong" />
   <project name="CalyxOS/platform_calyx-sdk" />
   <project name="CalyxOS/platform_cts" />
