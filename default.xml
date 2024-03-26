@@ -166,6 +166,7 @@
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
   <project name="CalyxOS/l10n_test" />
+  <project name="CalyxOS/lfs_test" />
   <project name="CalyxOS/mirror_manifest" />
   <project name="CalyxOS/muzei" />
   <project name="CalyxOS/platform_bionic" />
@@ -271,6 +272,8 @@
   <project name="CalyxOS/platform_hardware_qcom_sm8150_gps" />
   <project name="CalyxOS/platform_hardware_qcom_sm8150_media" />
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
+  <project name="CalyxOS/platform_hardware_samsung_nfc" />
+  <project name="CalyxOS/platform_hardware_st_nfc" />
   <project name="CalyxOS/platform_manifest" />
   <project name="CalyxOS/platform_packages_apps_Aperture" />
   <project name="CalyxOS/platform_packages_apps_AudioFX" />
@@ -325,6 +328,7 @@
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
   <project name="CalyxOS/platform_packages_modules_Bluetooth" />
   <project name="CalyxOS/platform_packages_modules_Connectivity" />
+  <project name="CalyxOS/platform_packages_modules_DeviceLock" />
   <project name="CalyxOS/platform_packages_modules_DnsResolver" />
   <project name="CalyxOS/platform_packages_modules_IntentResolver" />
   <project name="CalyxOS/platform_packages_modules_NeuralNetworks" />
