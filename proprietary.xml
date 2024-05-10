@@ -7,6 +7,7 @@
   <project name="CalyxOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_fairphone_FP5" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_firmware_jasmine_sprout" remote="gitlab-priv" />
+  <project name="CalyxOS/proprietary_vendor_google_akita" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_barbet" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_bluejay" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_google_blueline" remote="gitlab-priv" />
