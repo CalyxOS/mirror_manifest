@@ -171,6 +171,7 @@
   <project name="CalyxOS/lfs_test" />
   <project name="CalyxOS/mirror_manifest" />
   <project name="CalyxOS/muzei" />
+  <project name="CalyxOS/platform_art" />
   <project name="CalyxOS/platform_bionic" />
   <project name="CalyxOS/platform_bootable_recovery" />
   <project name="CalyxOS/platform_build" />
