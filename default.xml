@@ -12,6 +12,7 @@
   <project name="CalyxOS/apex_manifest" />
   <project name="CalyxOS/apks-fdroid-repo" />
   <project name="CalyxOS/bitmask_android" />
+  <project name="CalyxOS/blob_store" />
   <project name="CalyxOS/blossom" />
   <project name="CalyxOS/branding" />
   <project name="CalyxOS/calyx-fdroid-repo" />
@@ -122,6 +123,7 @@
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
+  <project name="CalyxOS/fastboot.js" />
   <project name="CalyxOS/fdroid-repo-common" />
   <project name="CalyxOS/fdroid-repo-emulator" />
   <project name="CalyxOS/fdroid-repo-setupwizard" />
