@@ -296,6 +296,7 @@
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
   <project name="CalyxOS/platform_hardware_samsung_nfc" />
   <project name="CalyxOS/platform_hardware_st_nfc" />
+  <project name="CalyxOS/platform_libcore" />
   <project name="CalyxOS/platform_manifest" />
   <project name="CalyxOS/platform_packages_apps_Aperture" />
   <project name="CalyxOS/platform_packages_apps_AudioFX" />
