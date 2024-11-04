@@ -233,6 +233,7 @@
   <project name="CalyxOS/platform_external_robolectric-shadows" />
   <project name="CalyxOS/platform_external_setupcompat" />
   <project name="CalyxOS/platform_external_setupdesign" />
+  <project name="CalyxOS/platform_external_skia" />
   <project name="CalyxOS/platform_external_sonivox" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_external_tremolo" />
@@ -404,6 +405,7 @@
   <project name="CalyxOS/platform_system_ca-certificates" />
   <project name="CalyxOS/platform_system_core" />
   <project name="CalyxOS/platform_system_extras" />
+  <project name="CalyxOS/platform_system_keymint" />
   <project name="CalyxOS/platform_system_libhidl" />
   <project name="CalyxOS/platform_system_libufdt" />
   <project name="CalyxOS/platform_system_logging" />
