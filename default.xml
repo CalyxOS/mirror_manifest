@@ -252,6 +252,8 @@
   <project name="CalyxOS/platform_hardware_calyx_interfaces" />
   <project name="CalyxOS/platform_hardware_calyx_livedisplay" />
   <project name="CalyxOS/platform_hardware_google_camera" />
+  <project name="CalyxOS/platform_hardware_google_gchips" />
+  <project name="CalyxOS/platform_hardware_google_graphics_common" />
   <project name="CalyxOS/platform_hardware_google_pixel" />
   <project name="CalyxOS/platform_hardware_google_pixel-sepolicy" />
   <project name="CalyxOS/platform_hardware_interfaces" />
