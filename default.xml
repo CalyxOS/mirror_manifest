@@ -213,6 +213,7 @@
   <project name="CalyxOS/platform_external_exfatprogs" />
   <project name="CalyxOS/platform_external_expat" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
+  <project name="CalyxOS/platform_external_google_talkback" />
   <project name="CalyxOS/platform_external_gson" />
   <project name="CalyxOS/platform_external_json-c" />
   <project name="CalyxOS/platform_external_libaom" />
