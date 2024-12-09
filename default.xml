@@ -407,6 +407,7 @@
   <project name="CalyxOS/platform_system_bpf" />
   <project name="CalyxOS/platform_system_bt" />
   <project name="CalyxOS/platform_system_ca-certificates" />
+  <project name="CalyxOS/platform_system_chre" />
   <project name="CalyxOS/platform_system_core" />
   <project name="CalyxOS/platform_system_extras" />
   <project name="CalyxOS/platform_system_keymint" />
