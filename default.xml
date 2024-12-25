@@ -182,9 +182,11 @@
   <project name="CalyxOS/lfs_prebuilts_calyx_chromium_arm64" />
   <project name="CalyxOS/lfs_prebuilts_calyx_chromium_x64" />
   <project name="CalyxOS/lfs_prebuilts_calyx_datura" />
+  <project name="CalyxOS/lfs_prebuilts_calyx_espeak-ng" />
   <project name="CalyxOS/lfs_prebuilts_calyx_fdroid" />
   <project name="CalyxOS/lfs_prebuilts_calyx_lupin" />
   <project name="CalyxOS/lfs_prebuilts_calyx_microg" />
+  <project name="CalyxOS/lfs_prebuilts_calyx_talkback" />
   <project name="CalyxOS/lfs_test" />
   <project name="CalyxOS/mirror_manifest" />
   <project name="CalyxOS/muzei" />
