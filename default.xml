@@ -440,6 +440,7 @@
   <project name="CalyxOS/vendor_nxp_opensource_sn100x_hidlimpl" />
   <project name="CalyxOS/vendor_qcom_opensource_audio" />
   <project name="CalyxOS/vendor_qcom_opensource_audio-hal_st-hal" />
+  <project name="CalyxOS/vendor_qcom_opensource_commonsys-intf_bluetooth" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys-intf_display" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys_display" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys_fm" />
