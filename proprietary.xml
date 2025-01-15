@@ -35,6 +35,7 @@
   <project name="CalyxOS/lfs_vendor_motorola_rhode" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_sm6225-common" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_shift_axolotl" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_shift_otter" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_vendor_fairphone_FP5" remote="gitlab-priv" />

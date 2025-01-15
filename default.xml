@@ -129,6 +129,7 @@
   <project name="CalyxOS/device_qcom_sepolicy_vndr-legacy-um" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr_legacy-um" />
   <project name="CalyxOS/device_shift_axolotl" />
+  <project name="CalyxOS/device_shift_otter" />
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
@@ -175,6 +176,7 @@
   <project name="CalyxOS/kernel_motorola_sm6225" />
   <project name="CalyxOS/kernel_oneplus_sm8250" />
   <project name="CalyxOS/kernel_oneplus_sm8350" />
+  <project name="CalyxOS/kernel_shift_qcm6490" />
   <project name="CalyxOS/kernel_shift_sdm845" />
   <project name="CalyxOS/kernel_xiaomi_jasmine_sprout" />
   <project name="CalyxOS/keys" />
@@ -220,6 +222,9 @@
   <project name="CalyxOS/platform_external_google_talkback" />
   <project name="CalyxOS/platform_external_gson" />
   <project name="CalyxOS/platform_external_json-c" />
+  <project name="CalyxOS/platform_external_kotlinc" />
+  <project name="CalyxOS/platform_external_kotlinx.coroutines" />
+  <project name="CalyxOS/platform_external_kotlinx.serialization" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libavc" />
   <project name="CalyxOS/platform_external_libexif" />
@@ -303,6 +308,7 @@
   <project name="CalyxOS/platform_hardware_qcom_sm8150_gps" />
   <project name="CalyxOS/platform_hardware_qcom_sm8150_media" />
   <project name="CalyxOS/platform_hardware_qcom_thermal" />
+  <project name="CalyxOS/platform_hardware_ril" />
   <project name="CalyxOS/platform_hardware_samsung_nfc" />
   <project name="CalyxOS/platform_hardware_st_nfc" />
   <project name="CalyxOS/platform_libcore" />
@@ -355,6 +361,7 @@
   <project name="CalyxOS/platform_packages_apps_SystemUpdater" />
   <project name="CalyxOS/platform_packages_apps_ThemePicker" />
   <project name="CalyxOS/platform_packages_apps_Traceur" />
+  <project name="CalyxOS/platform_packages_apps_Twelve" />
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
