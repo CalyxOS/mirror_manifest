@@ -168,6 +168,7 @@
   <project name="CalyxOS/kernel_google_redbull" />
   <project name="CalyxOS/kernel_google_redbull_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
+  <project name="CalyxOS/kernel_google_redbull_techpack_camera" />
   <project name="CalyxOS/kernel_google_sunfish" />
   <project name="CalyxOS/kernel_google_sunfish_drivers_staging_fts" />
   <project name="CalyxOS/kernel_google_sunfish_techpack_audio" />
