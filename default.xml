@@ -158,6 +158,7 @@
   <project name="CalyxOS/kernel_google_gs101" />
   <project name="CalyxOS/kernel_google_gs201" />
   <project name="CalyxOS/kernel_google_msm-4.14" />
+  <project name="CalyxOS/kernel_google_msm-4.14_drivers_staging_qca-wfi-host-cmn" />
   <project name="CalyxOS/kernel_google_msm-4.14_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_msm-4.14_techpack_audio" />
   <project name="CalyxOS/kernel_google_msm-4.9" />
@@ -166,6 +167,7 @@
   <project name="CalyxOS/kernel_google_raviole" />
   <project name="CalyxOS/kernel_google_raviole-gki" />
   <project name="CalyxOS/kernel_google_redbull" />
+  <project name="CalyxOS/kernel_google_redbull_drivers_staging_qca-wfi-host-cmn" />
   <project name="CalyxOS/kernel_google_redbull_drivers_staging_qcacld-3.0" />
   <project name="CalyxOS/kernel_google_redbull_techpack_audio" />
   <project name="CalyxOS/kernel_google_redbull_techpack_camera" />
