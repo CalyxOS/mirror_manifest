@@ -72,6 +72,7 @@
   <project name="CalyxOS/device_google_felix-kernel" />
   <project name="CalyxOS/device_google_felix-sepolicy" />
   <project name="CalyxOS/device_google_flame" />
+  <project name="CalyxOS/device_google_gearhead" />
   <project name="CalyxOS/device_google_gs-common" />
   <project name="CalyxOS/device_google_gs101" />
   <project name="CalyxOS/device_google_gs101-sepolicy" />
