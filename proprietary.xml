@@ -30,10 +30,13 @@
   <project name="CalyxOS/lfs_vendor_google_sunfish" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_google_tangorpro" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_google_tokay" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_motorola_bangkk" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_devon" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_motorola_fogos" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_hawao" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_rhode" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_sm6225-common" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_motorola_sm6375-common" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_shift_axolotl" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_shift_otter" remote="gitlab-priv" />
   <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" remote="gitlab-priv" />

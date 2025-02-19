@@ -115,10 +115,13 @@
   <project name="CalyxOS/device_google_zuma-sepolicy" />
   <project name="CalyxOS/device_google_zumapro" />
   <project name="CalyxOS/device_google_zumapro-sepolicy" />
+  <project name="CalyxOS/device_motorola_bangkk" />
   <project name="CalyxOS/device_motorola_devon" />
+  <project name="CalyxOS/device_motorola_fogos" />
   <project name="CalyxOS/device_motorola_hawao" />
   <project name="CalyxOS/device_motorola_rhode" />
   <project name="CalyxOS/device_motorola_sm6225-common" />
+  <project name="CalyxOS/device_motorola_sm6375-common" />
   <project name="CalyxOS/device_oneplus_kebab" />
   <project name="CalyxOS/device_oneplus_lemonade" />
   <project name="CalyxOS/device_oneplus_lemonadep" />
@@ -178,6 +181,7 @@
   <project name="CalyxOS/kernel_google_wahoo" />
   <project name="CalyxOS/kernel_manifest" />
   <project name="CalyxOS/kernel_motorola_sm6225" />
+  <project name="CalyxOS/kernel_motorola_sm6375" />
   <project name="CalyxOS/kernel_oneplus_sm8250" />
   <project name="CalyxOS/kernel_oneplus_sm8350" />
   <project name="CalyxOS/kernel_shift_qcm6490" />
