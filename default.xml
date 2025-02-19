@@ -434,6 +434,7 @@
   <project name="CalyxOS/platform_system_netd" />
   <project name="CalyxOS/platform_system_nfc" />
   <project name="CalyxOS/platform_system_qcom" />
+  <project name="CalyxOS/platform_system_security" />
   <project name="CalyxOS/platform_system_sepolicy" />
   <project name="CalyxOS/platform_system_tools_aidl" />
   <project name="CalyxOS/platform_system_update_engine" />
