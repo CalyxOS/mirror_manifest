@@ -223,6 +223,7 @@
   <project name="CalyxOS/platform_external_calyx_datura" />
   <project name="CalyxOS/platform_external_calyx_lupin" />
   <project name="CalyxOS/platform_external_conscrypt" />
+  <project name="CalyxOS/platform_external_dng_sdk" />
   <project name="CalyxOS/platform_external_espeak-ng_espeak-ng" />
   <project name="CalyxOS/platform_external_exfatprogs" />
   <project name="CalyxOS/platform_external_expat" />
