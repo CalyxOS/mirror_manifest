@@ -251,6 +251,7 @@
   <project name="CalyxOS/platform_external_muzei_blossom" />
   <project name="CalyxOS/platform_external_muzei_muzei" />
   <project name="CalyxOS/platform_external_pdfium" />
+  <project name="CalyxOS/platform_external_pigweed" />
   <project name="CalyxOS/platform_external_robolectric-shadows" />
   <project name="CalyxOS/platform_external_setupcompat" />
   <project name="CalyxOS/platform_external_setupdesign" />
