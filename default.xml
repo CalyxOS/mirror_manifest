@@ -68,6 +68,7 @@
   <project name="CalyxOS/device_google_crosshatch" />
   <project name="CalyxOS/device_google_crosshatch-kernel" />
   <project name="CalyxOS/device_google_crosshatch-sepolicy" />
+  <project name="CalyxOS/device_google_cuttlefish" />
   <project name="CalyxOS/device_google_felix" />
   <project name="CalyxOS/device_google_felix-kernel" />
   <project name="CalyxOS/device_google_felix-sepolicy" />
