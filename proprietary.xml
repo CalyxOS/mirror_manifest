@@ -32,6 +32,7 @@
   <project name="CalyxOS/lfs_vendor_google_tokay" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_bangkk" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_devon" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_motorola_fogo" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_fogos" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_hawao" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_rhode" remote="gitlab-priv" />

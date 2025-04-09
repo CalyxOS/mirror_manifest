@@ -118,6 +118,7 @@
   <project name="CalyxOS/device_google_zumapro-sepolicy" />
   <project name="CalyxOS/device_motorola_bangkk" />
   <project name="CalyxOS/device_motorola_devon" />
+  <project name="CalyxOS/device_motorola_fogo" />
   <project name="CalyxOS/device_motorola_fogos" />
   <project name="CalyxOS/device_motorola_hawao" />
   <project name="CalyxOS/device_motorola_rhode" />
