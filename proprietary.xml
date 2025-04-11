@@ -29,6 +29,7 @@
   <project name="CalyxOS/lfs_vendor_google_shiba" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_google_sunfish" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_google_tangorpro" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_google_tegu" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_google_tokay" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_bangkk" remote="gitlab-priv" />
   <project name="CalyxOS/lfs_vendor_motorola_devon" remote="gitlab-priv" />

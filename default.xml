@@ -109,6 +109,8 @@
   <project name="CalyxOS/device_google_tangorpro" />
   <project name="CalyxOS/device_google_tangorpro-kernel" />
   <project name="CalyxOS/device_google_tangorpro-sepolicy" />
+  <project name="CalyxOS/device_google_tegu" />
+  <project name="CalyxOS/device_google_tegu-sepolicy" />
   <project name="CalyxOS/device_google_tokay" />
   <project name="CalyxOS/device_google_wahoo" />
   <project name="CalyxOS/device_google_wahoo-kernel" />
