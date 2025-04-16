@@ -489,6 +489,7 @@
   <project name="CalyxOS/wallpapers" />
   <project name="CalyxOS/weblate/bitmask_android" />
   <project name="CalyxOS/weblate/calyxosdotorg" />
+  <project name="CalyxOS/weblate/device_google_gearhead" />
   <project name="CalyxOS/weblate/l10n_test" />
   <project name="CalyxOS/weblate/platform_external_calyx_lupin" />
   <project name="CalyxOS/weblate/platform_frameworks_base" />
