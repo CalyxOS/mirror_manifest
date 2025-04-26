@@ -16,6 +16,24 @@
       "message": "Hold, repos are still empty",
       "revId": "78cb92ff5a2dab0a2b72ab26d2d7dbc6e67984be",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e12fa091_feec901e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-26T00:11:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6ee4855b_da025596",
+      "revId": "78cb92ff5a2dab0a2b72ab26d2d7dbc6e67984be",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
