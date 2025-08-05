@@ -43,12 +43,14 @@
   <project name="CalyxOS/device_fairphone_FP5" />
   <project name="CalyxOS/device_generic_goldfish" />
   <project name="CalyxOS/device_google_akita" />
+  <project name="CalyxOS/device_google_akita-kernels" />
   <project name="CalyxOS/device_google_akita-sepolicy" />
   <project name="CalyxOS/device_google_barbet" />
   <project name="CalyxOS/device_google_barbet-kernel" />
   <project name="CalyxOS/device_google_barbet-sepolicy" />
   <project name="CalyxOS/device_google_bluejay" />
   <project name="CalyxOS/device_google_bluejay-kernel" />
+  <project name="CalyxOS/device_google_bluejay-kernels" />
   <project name="CalyxOS/device_google_bluejay-sepolicy" />
   <project name="CalyxOS/device_google_blueline" />
   <project name="CalyxOS/device_google_bonito" />
@@ -58,9 +60,11 @@
   <project name="CalyxOS/device_google_bramble-sepolicy" />
   <project name="CalyxOS/device_google_caiman" />
   <project name="CalyxOS/device_google_caimito" />
+  <project name="CalyxOS/device_google_caimito-kernels" />
   <project name="CalyxOS/device_google_caimito-sepolicy" />
   <project name="CalyxOS/device_google_cheetah" />
   <project name="CalyxOS/device_google_comet" />
+  <project name="CalyxOS/device_google_comet-kernels" />
   <project name="CalyxOS/device_google_comet-sepolicy" />
   <project name="CalyxOS/device_google_coral" />
   <project name="CalyxOS/device_google_coral-kernel" />
@@ -71,6 +75,7 @@
   <project name="CalyxOS/device_google_cuttlefish" />
   <project name="CalyxOS/device_google_felix" />
   <project name="CalyxOS/device_google_felix-kernel" />
+  <project name="CalyxOS/device_google_felix-kernels" />
   <project name="CalyxOS/device_google_felix-sepolicy" />
   <project name="CalyxOS/device_google_flame" />
   <project name="CalyxOS/device_google_gearhead" />
@@ -83,16 +88,19 @@
   <project name="CalyxOS/device_google_komodo" />
   <project name="CalyxOS/device_google_lynx" />
   <project name="CalyxOS/device_google_lynx-kernel" />
+  <project name="CalyxOS/device_google_lynx-kernels" />
   <project name="CalyxOS/device_google_lynx-sepolicy" />
   <project name="CalyxOS/device_google_muskie" />
   <project name="CalyxOS/device_google_oriole" />
   <project name="CalyxOS/device_google_pantah" />
   <project name="CalyxOS/device_google_pantah-kernel" />
+  <project name="CalyxOS/device_google_pantah-kernels" />
   <project name="CalyxOS/device_google_pantah-sepolicy" />
   <project name="CalyxOS/device_google_panther" />
   <project name="CalyxOS/device_google_raven" />
   <project name="CalyxOS/device_google_raviole" />
   <project name="CalyxOS/device_google_raviole-kernel" />
+  <project name="CalyxOS/device_google_raviole-kernels" />
   <project name="CalyxOS/device_google_redbull" />
   <project name="CalyxOS/device_google_redbull-kernel" />
   <project name="CalyxOS/device_google_redbull-sepolicy" />
@@ -101,6 +109,7 @@
   <project name="CalyxOS/device_google_sargo" />
   <project name="CalyxOS/device_google_shiba" />
   <project name="CalyxOS/device_google_shusky" />
+  <project name="CalyxOS/device_google_shusky-kernels" />
   <project name="CalyxOS/device_google_shusky-sepolicy" />
   <project name="CalyxOS/device_google_sunfish" />
   <project name="CalyxOS/device_google_sunfish-kernel" />
@@ -108,8 +117,10 @@
   <project name="CalyxOS/device_google_taimen" />
   <project name="CalyxOS/device_google_tangorpro" />
   <project name="CalyxOS/device_google_tangorpro-kernel" />
+  <project name="CalyxOS/device_google_tangorpro-kernels" />
   <project name="CalyxOS/device_google_tangorpro-sepolicy" />
   <project name="CalyxOS/device_google_tegu" />
+  <project name="CalyxOS/device_google_tegu-kernels" />
   <project name="CalyxOS/device_google_tegu-sepolicy" />
   <project name="CalyxOS/device_google_tokay" />
   <project name="CalyxOS/device_google_wahoo" />
@@ -158,6 +169,8 @@
   <project name="CalyxOS/kernel_devices_google_tangorpro" />
   <project name="CalyxOS/kernel_fairphone_qcm6490" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
+  <project name="CalyxOS/kernel_google-modules_bms" />
+  <project name="CalyxOS/kernel_google-modules_misc" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
   <project name="CalyxOS/kernel_google_bluejay" />
@@ -508,5 +521,6 @@
   <project name="CalyxOS/weblate/platform_packages_apps_settings" />
   <project name="CalyxOS/weblate/platform_packages_apps_setupwizard" />
   <project name="CalyxOS/weblate/platform_packages_apps_updater" />
+  <project name="CalyxOS/weblate/platform_packages_modules_permission" />
   <project name="CalyxOS/weblate/seedvault" />
 </manifest>
