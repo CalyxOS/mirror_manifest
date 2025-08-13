@@ -166,11 +166,14 @@
   <project name="CalyxOS/kernel_devices_google_bluejay" />
   <project name="CalyxOS/kernel_devices_google_felix" />
   <project name="CalyxOS/kernel_devices_google_lynx" />
+  <project name="CalyxOS/kernel_devices_google_pantah" />
+  <project name="CalyxOS/kernel_devices_google_shusky" />
   <project name="CalyxOS/kernel_devices_google_tangorpro" />
   <project name="CalyxOS/kernel_fairphone_qcm6490" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
   <project name="CalyxOS/kernel_google-modules_bms" />
   <project name="CalyxOS/kernel_google-modules_misc" />
+  <project name="CalyxOS/kernel_google-modules_soc_gs" />
   <project name="CalyxOS/kernel_google_barbet" />
   <project name="CalyxOS/kernel_google_barbet_techpack_audio" />
   <project name="CalyxOS/kernel_google_bluejay" />
