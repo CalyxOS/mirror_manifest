@@ -179,6 +179,9 @@
   <project name="CalyxOS/kernel_google_bluejay" />
   <project name="CalyxOS/kernel_google_bluejay-gki" />
   <project name="CalyxOS/kernel_google_coral" />
+  <project name="CalyxOS/kernel_google_gs-6.1_devices" />
+  <project name="CalyxOS/kernel_google_gs-6.1_google-modules" />
+  <project name="CalyxOS/kernel_google_gs-6.1_manifest" />
   <project name="CalyxOS/kernel_google_gs101" />
   <project name="CalyxOS/kernel_google_gs201" />
   <project name="CalyxOS/kernel_google_msm-4.14" />
@@ -328,6 +331,7 @@
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8350_display" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8350_media" />
   <project name="CalyxOS/platform_hardware_qcom-caf_thermal" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_thermal-legacy-um" />
   <project name="CalyxOS/platform_hardware_qcom-caf_wlan" />
   <project name="CalyxOS/platform_hardware_qcom_audio" />
   <project name="CalyxOS/platform_hardware_qcom_bootctrl" />
@@ -413,6 +417,7 @@
   <project name="CalyxOS/platform_packages_modules_NeuralNetworks" />
   <project name="CalyxOS/platform_packages_modules_Permission" />
   <project name="CalyxOS/platform_packages_modules_StatsD" />
+  <project name="CalyxOS/platform_packages_modules_UprobeStats" />
   <project name="CalyxOS/platform_packages_modules_Uwb" />
   <project name="CalyxOS/platform_packages_modules_Virtualization" />
   <project name="CalyxOS/platform_packages_modules_Wifi" />
