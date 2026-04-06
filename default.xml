@@ -153,6 +153,7 @@
   <project name="CalyxOS/device_xiaomi_sdm660-common" />
   <project name="CalyxOS/device_xiaomi_wayne-common" />
   <project name="CalyxOS/fastboot.js" />
+  <project name="CalyxOS/fastboot.ts" />
   <project name="CalyxOS/fdroid-repo-common" />
   <project name="CalyxOS/fdroid-repo-emulator" />
   <project name="CalyxOS/fdroid-repo-setupwizard" />
@@ -254,6 +255,7 @@
   <project name="CalyxOS/platform_external_expat" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
   <project name="CalyxOS/platform_external_giflib" />
+  <project name="CalyxOS/platform_external_google-fonts_google-sans-flex" />
   <project name="CalyxOS/platform_external_google_talkback" />
   <project name="CalyxOS/platform_external_gson" />
   <project name="CalyxOS/platform_external_json-c" />
@@ -350,6 +352,7 @@
   <project name="CalyxOS/platform_hardware_qcom_wlan" />
   <project name="CalyxOS/platform_hardware_ril" />
   <project name="CalyxOS/platform_hardware_samsung_nfc" />
+  <project name="CalyxOS/platform_hardware_samsung_slsi_nfc" />
   <project name="CalyxOS/platform_hardware_st_nfc" />
   <project name="CalyxOS/platform_libcore" />
   <project name="CalyxOS/platform_manifest" />
@@ -376,6 +379,7 @@
   <project name="CalyxOS/platform_packages_apps_ElmyraService" />
   <project name="CalyxOS/platform_packages_apps_EmergencyInfo" />
   <project name="CalyxOS/platform_packages_apps_Etar" />
+  <project name="CalyxOS/platform_packages_apps_EuiccPolicy" />
   <project name="CalyxOS/platform_packages_apps_ExactCalculator" />
   <project name="CalyxOS/platform_packages_apps_F-DroidPrivilegedExtension" />
   <project name="CalyxOS/platform_packages_apps_Firewall" />
@@ -407,6 +411,7 @@
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
   <project name="CalyxOS/platform_packages_inputmethods_LatinIME" />
+  <project name="CalyxOS/platform_packages_modules_AdServices" />
   <project name="CalyxOS/platform_packages_modules_AppSearch" />
   <project name="CalyxOS/platform_packages_modules_Bluetooth" />
   <project name="CalyxOS/platform_packages_modules_CellBroadcastService" />
