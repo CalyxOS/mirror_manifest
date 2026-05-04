@@ -426,6 +426,7 @@
   <project name="CalyxOS/platform_packages_modules_Uwb" />
   <project name="CalyxOS/platform_packages_modules_Virtualization" />
   <project name="CalyxOS/platform_packages_modules_Wifi" />
+  <project name="CalyxOS/platform_packages_modules_adb" />
   <project name="CalyxOS/platform_packages_modules_common" />
   <project name="CalyxOS/platform_packages_overlays_Calyx" />
   <project name="CalyxOS/platform_packages_providers_CalendarProvider" />
