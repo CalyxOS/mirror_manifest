@@ -265,6 +265,7 @@
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libavc" />
   <project name="CalyxOS/platform_external_libexif" />
+  <project name="CalyxOS/platform_external_libpng" />
   <project name="CalyxOS/platform_external_libvpx" />
   <project name="CalyxOS/platform_external_libxml2" />
   <project name="CalyxOS/platform_external_microg_DejaVu" />
@@ -283,6 +284,7 @@
   <project name="CalyxOS/platform_external_setupdesign" />
   <project name="CalyxOS/platform_external_skia" />
   <project name="CalyxOS/platform_external_sonivox" />
+  <project name="CalyxOS/platform_external_sqlite" />
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_external_tremolo" />
   <project name="CalyxOS/platform_external_webp" />
@@ -420,6 +422,7 @@
   <project name="CalyxOS/platform_packages_modules_DnsResolver" />
   <project name="CalyxOS/platform_packages_modules_IntentResolver" />
   <project name="CalyxOS/platform_packages_modules_NeuralNetworks" />
+  <project name="CalyxOS/platform_packages_modules_Nfc" />
   <project name="CalyxOS/platform_packages_modules_Permission" />
   <project name="CalyxOS/platform_packages_modules_StatsD" />
   <project name="CalyxOS/platform_packages_modules_UprobeStats" />
