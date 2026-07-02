@@ -1,96 +1,93 @@
 <manifest>
 
-  <remote name="gitlab-priv"
-          fetch="ssh://git@gitlab.com" />
-
-  <project name="CalyxOS/lfs_vendor_fairphone_FP4" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_fairphone_FP5" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_akita" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_barbet" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_bluejay" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_blueline" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_bonito" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_bramble" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_caiman" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_cheetah" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_comet" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_coral" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_crosshatch" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_felix" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_flame" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_husky" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_komodo" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_lynx" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_oriole" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_panther" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_raven" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_redfin" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_sargo" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_shiba" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_sunfish" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_tangorpro" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_tegu" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_google_tokay" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_bangkk" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_devon" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_fogo" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_fogos" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_hawao" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_rhode" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_sm6225-common" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_motorola_sm6375-common" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_shift_axolotl" remote="gitlab-priv" />
-  <project name="CalyxOS/lfs_vendor_shift_otter" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_fairphone_FP4" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_fairphone_FP5" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_firmware_jasmine_sprout" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_akita" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_barbet" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_bluejay" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_blueline" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_bonito" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_bramble" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_cheetah" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_coral" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_crosshatch" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_felix" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_flame" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_gearhead" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_husky" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_lynx" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_oriole" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_panther" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_raven" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_redfin" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_sargo" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_shiba" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_sunfish" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_tangorpro" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_barbet" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_blueline" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_bonito" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_bramble" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_coral" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_crosshatch" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_flame" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_muskie" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_redfin" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_sargo" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_sunfish" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_taimen" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_google_devices_walleye" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_motorola_devon" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_motorola_hawao" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_motorola_rhode" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_motorola_sm6225-common" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_oneplus_kebab" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_oneplus_lemonade" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_oneplus_lemonadep" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_oneplus_sm8250-common" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_oneplus_sm8350-common" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_shift_axolotl" remote="gitlab-priv" />
-  <project name="CalyxOS/proprietary_vendor_xiaomi" remote="gitlab-priv" />
+  <project name="CalyxOS/lfs_vendor_fairphone_FP4" />
+  <project name="CalyxOS/lfs_vendor_fairphone_FP5" />
+  <project name="CalyxOS/lfs_vendor_google_akita" />
+  <project name="CalyxOS/lfs_vendor_google_barbet" />
+  <project name="CalyxOS/lfs_vendor_google_bluejay" />
+  <project name="CalyxOS/lfs_vendor_google_blueline" />
+  <project name="CalyxOS/lfs_vendor_google_bonito" />
+  <project name="CalyxOS/lfs_vendor_google_bramble" />
+  <project name="CalyxOS/lfs_vendor_google_caiman" />
+  <project name="CalyxOS/lfs_vendor_google_cheetah" />
+  <project name="CalyxOS/lfs_vendor_google_comet" />
+  <project name="CalyxOS/lfs_vendor_google_coral" />
+  <project name="CalyxOS/lfs_vendor_google_crosshatch" />
+  <project name="CalyxOS/lfs_vendor_google_felix" />
+  <project name="CalyxOS/lfs_vendor_google_flame" />
+  <project name="CalyxOS/lfs_vendor_google_husky" />
+  <project name="CalyxOS/lfs_vendor_google_komodo" />
+  <project name="CalyxOS/lfs_vendor_google_lynx" />
+  <project name="CalyxOS/lfs_vendor_google_oriole" />
+  <project name="CalyxOS/lfs_vendor_google_panther" />
+  <project name="CalyxOS/lfs_vendor_google_raven" />
+  <project name="CalyxOS/lfs_vendor_google_redfin" />
+  <project name="CalyxOS/lfs_vendor_google_sargo" />
+  <project name="CalyxOS/lfs_vendor_google_shiba" />
+  <project name="CalyxOS/lfs_vendor_google_sunfish" />
+  <project name="CalyxOS/lfs_vendor_google_tangorpro" />
+  <project name="CalyxOS/lfs_vendor_google_tegu" />
+  <project name="CalyxOS/lfs_vendor_google_tokay" />
+  <project name="CalyxOS/lfs_vendor_motorola_bangkk" />
+  <project name="CalyxOS/lfs_vendor_motorola_devon" />
+  <project name="CalyxOS/lfs_vendor_motorola_fogo" />
+  <project name="CalyxOS/lfs_vendor_motorola_fogos" />
+  <project name="CalyxOS/lfs_vendor_motorola_hawao" />
+  <project name="CalyxOS/lfs_vendor_motorola_rhode" />
+  <project name="CalyxOS/lfs_vendor_motorola_sm6225-common" />
+  <project name="CalyxOS/lfs_vendor_motorola_sm6375-common" />
+  <project name="CalyxOS/lfs_vendor_shift_axolotl" />
+  <project name="CalyxOS/lfs_vendor_shift_otter" />
+  <project name="CalyxOS/proprietary_calyx-fdroid-repo-apks" />
+  <project name="CalyxOS/proprietary_vendor_fairphone_FP4" />
+  <project name="CalyxOS/proprietary_vendor_fairphone_FP5" />
+  <project name="CalyxOS/proprietary_vendor_firmware_jasmine_sprout" />
+  <project name="CalyxOS/proprietary_vendor_google_akita" />
+  <project name="CalyxOS/proprietary_vendor_google_barbet" />
+  <project name="CalyxOS/proprietary_vendor_google_bluejay" />
+  <project name="CalyxOS/proprietary_vendor_google_blueline" />
+  <project name="CalyxOS/proprietary_vendor_google_bonito" />
+  <project name="CalyxOS/proprietary_vendor_google_bramble" />
+  <project name="CalyxOS/proprietary_vendor_google_cheetah" />
+  <project name="CalyxOS/proprietary_vendor_google_coral" />
+  <project name="CalyxOS/proprietary_vendor_google_crosshatch" />
+  <project name="CalyxOS/proprietary_vendor_google_felix" />
+  <project name="CalyxOS/proprietary_vendor_google_flame" />
+  <project name="CalyxOS/proprietary_vendor_google_gearhead" />
+  <project name="CalyxOS/proprietary_vendor_google_husky" />
+  <project name="CalyxOS/proprietary_vendor_google_lynx" />
+  <project name="CalyxOS/proprietary_vendor_google_oriole" />
+  <project name="CalyxOS/proprietary_vendor_google_panther" />
+  <project name="CalyxOS/proprietary_vendor_google_raven" />
+  <project name="CalyxOS/proprietary_vendor_google_redfin" />
+  <project name="CalyxOS/proprietary_vendor_google_sargo" />
+  <project name="CalyxOS/proprietary_vendor_google_shiba" />
+  <project name="CalyxOS/proprietary_vendor_google_sunfish" />
+  <project name="CalyxOS/proprietary_vendor_google_tangorpro" />
+  <project name="CalyxOS/proprietary_vendor_google_devices" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_barbet" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_blueline" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_bonito" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_bramble" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_coral" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_crosshatch" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_flame" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_muskie" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_redfin" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_sargo" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_sunfish" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_taimen" />
+  <project name="CalyxOS/proprietary_vendor_google_devices_walleye" />
+  <project name="CalyxOS/proprietary_vendor_motorola_devon" />
+  <project name="CalyxOS/proprietary_vendor_motorola_hawao" />
+  <project name="CalyxOS/proprietary_vendor_motorola_rhode" />
+  <project name="CalyxOS/proprietary_vendor_motorola_sm6225-common" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_kebab" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_lemonade" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_lemonadep" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_sm8250-common" />
+  <project name="CalyxOS/proprietary_vendor_oneplus_sm8350-common" />
+  <project name="CalyxOS/proprietary_vendor_shift_axolotl" />
+  <project name="CalyxOS/proprietary_vendor_xiaomi" />
 
 </manifest>
