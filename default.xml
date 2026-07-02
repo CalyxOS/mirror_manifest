@@ -4,7 +4,7 @@
   <remote  name="gitlab"
            fetch=".." />
 
-  <default revision="master"
+  <default revision="main"
            remote="gitlab"
            sync-j="4" />
 
