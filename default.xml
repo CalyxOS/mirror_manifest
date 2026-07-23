@@ -41,6 +41,7 @@
   <project name="CalyxOS/device_common" />
   <project name="CalyxOS/device_fairphone_FP4" />
   <project name="CalyxOS/device_fairphone_FP5" />
+  <project name="CalyxOS/device_fairphone_FP6" />
   <project name="CalyxOS/device_generic_goldfish" />
   <project name="CalyxOS/device_google_akita" />
   <project name="CalyxOS/device_google_akita-kernels" />
@@ -147,6 +148,7 @@
   <project name="CalyxOS/device_qcom_sepolicy_vndr" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr-legacy-um" />
   <project name="CalyxOS/device_qcom_sepolicy_vndr_legacy-um" />
+  <project name="CalyxOS/device_qcom_sepolicy_vndr_sm8650" />
   <project name="CalyxOS/device_shift_axolotl" />
   <project name="CalyxOS/device_shift_otter" />
   <project name="CalyxOS/device_xiaomi_jasmine_sprout" />
@@ -172,6 +174,9 @@
   <project name="CalyxOS/kernel_devices_google_tangorpro" />
   <project name="CalyxOS/kernel_fairphone_qcm6490" />
   <project name="CalyxOS/kernel_fairphone_sm7225" />
+  <project name="CalyxOS/kernel_fairphone_sm7635" />
+  <project name="CalyxOS/kernel_fairphone_sm7635-devicetrees" />
+  <project name="CalyxOS/kernel_fairphone_sm7635-modules" />
   <project name="CalyxOS/kernel_google-modules_bms" />
   <project name="CalyxOS/kernel_google-modules_misc" />
   <project name="CalyxOS/kernel_google-modules_soc_gs" />
@@ -334,6 +339,13 @@
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8350_audio" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8350_display" />
   <project name="CalyxOS/platform_hardware_qcom-caf_sm8350_media" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_audio_agm" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_audio_graphservices" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_audio_pal" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_audio_primary-hal" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_data-ipa-cfg-mgr" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_dataipa" />
+  <project name="CalyxOS/platform_hardware_qcom-caf_sm8650_display" />
   <project name="CalyxOS/platform_hardware_qcom-caf_thermal" />
   <project name="CalyxOS/platform_hardware_qcom-caf_thermal-legacy-um" />
   <project name="CalyxOS/platform_hardware_qcom-caf_wlan" />
@@ -503,11 +515,14 @@
   <project name="CalyxOS/vendor_nxp_opensource_sn100x_hidlimpl" />
   <project name="CalyxOS/vendor_qcom_opensource_audio" />
   <project name="CalyxOS/vendor_qcom_opensource_audio-hal_st-hal" />
+  <project name="CalyxOS/vendor_qcom_opensource_audio-hal_st-hal-ar-legacy" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys-intf_bluetooth" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys-intf_display" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys_display" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys_fm" />
   <project name="CalyxOS/vendor_qcom_opensource_commonsys_wfd" />
+  <project name="CalyxOS/vendor_qcom_opensource_core-utils-sys" />
+  <project name="CalyxOS/vendor_qcom_opensource_core-utils-vendor" />
   <project name="CalyxOS/vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project name="CalyxOS/vendor_qcom_opensource_data-ipa-cfg-mgr-legacy-um" />
   <project name="CalyxOS/vendor_qcom_opensource_dataservices" />
@@ -517,6 +532,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_fm-commonsys" />
   <project name="CalyxOS/vendor_qcom_opensource_healthd-ext" />
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
+  <project name="CalyxOS/vendor_qcom_opensource_libvmmem" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/vendor_qcom_opensource_thermal-engine" />
   <project name="CalyxOS/vendor_qcom_opensource_usb" />
