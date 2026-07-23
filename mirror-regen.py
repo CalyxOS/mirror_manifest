@@ -28,7 +28,7 @@ file.write("\n")
 file.write("  <remote  name=\"gitlab\"\n")
 file.write("           fetch=\"..\" />\n")
 file.write("\n")
-file.write("  <default revision=\"master\"\n")
+file.write("  <default revision=\"main\"\n")
 file.write("           remote=\"gitlab\"\n")
 file.write("           sync-j=\"4\" />\n")
 file.write("\n")
@@ -36,7 +36,9 @@ file.write("\n")
 repos = []
 
 for repo in projects:
-    repos.append(repo.path_with_namespace)
+    path = repo.path_with_namespace
+    if not path.startswith("CalyxOS/sandbox/") and path != "CalyxOS/chromium":
+        repos.append(path)
 
 for repo in sorted(repos):
     file.write("  <project name=\"" + repo + "\" />\n")
