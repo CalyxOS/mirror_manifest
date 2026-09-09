@@ -112,6 +112,8 @@
   <project name="CalyxOS/device_google_shusky" />
   <project name="CalyxOS/device_google_shusky-kernels" />
   <project name="CalyxOS/device_google_shusky-sepolicy" />
+  <project name="CalyxOS/device_google_stallion" />
+  <project name="CalyxOS/device_google_stallion-kernels" />
   <project name="CalyxOS/device_google_sunfish" />
   <project name="CalyxOS/device_google_sunfish-kernel" />
   <project name="CalyxOS/device_google_sunfish-sepolicy" />
@@ -260,6 +262,7 @@
   <project name="CalyxOS/platform_external_exfatprogs" />
   <project name="CalyxOS/platform_external_expat" />
   <project name="CalyxOS/platform_external_fdroid_fdroidclient" />
+  <project name="CalyxOS/platform_external_freetype" />
   <project name="CalyxOS/platform_external_giflib" />
   <project name="CalyxOS/platform_external_google-fonts_google-sans-flex" />
   <project name="CalyxOS/platform_external_google_talkback" />
@@ -270,8 +273,13 @@
   <project name="CalyxOS/platform_external_kotlinx.serialization" />
   <project name="CalyxOS/platform_external_libaom" />
   <project name="CalyxOS/platform_external_libavc" />
+  <project name="CalyxOS/platform_external_libcupsfilters" />
   <project name="CalyxOS/platform_external_libexif" />
+  <project name="CalyxOS/platform_external_libhevc" />
+  <project name="CalyxOS/platform_external_libjxl" />
+  <project name="CalyxOS/platform_external_libopenapv" />
   <project name="CalyxOS/platform_external_libpng" />
+  <project name="CalyxOS/platform_external_libppd" />
   <project name="CalyxOS/platform_external_libvpx" />
   <project name="CalyxOS/platform_external_libxml2" />
   <project name="CalyxOS/platform_external_microg_DejaVu" />
@@ -294,6 +302,7 @@
   <project name="CalyxOS/platform_external_tinycompress" />
   <project name="CalyxOS/platform_external_tremolo" />
   <project name="CalyxOS/platform_external_webp" />
+  <project name="CalyxOS/platform_external_wpa_supplicant_8" />
   <project name="CalyxOS/platform_frameworks_av" />
   <project name="CalyxOS/platform_frameworks_base" />
   <project name="CalyxOS/platform_frameworks_libs_gsma_services" />
@@ -320,6 +329,7 @@
   <project name="CalyxOS/platform_hardware_libhardware_legacy" />
   <project name="CalyxOS/platform_hardware_motorola" />
   <project name="CalyxOS/platform_hardware_nxp_nfc" />
+  <project name="CalyxOS/platform_hardware_nxp_secure_element" />
   <project name="CalyxOS/platform_hardware_oneplus" />
   <project name="CalyxOS/platform_hardware_oplus" />
   <project name="CalyxOS/platform_hardware_qcom-caf_bootctrl" />
@@ -382,10 +392,12 @@
   <project name="CalyxOS/platform_packages_apps_CalyxParts" />
   <project name="CalyxOS/platform_packages_apps_Camelot" />
   <project name="CalyxOS/platform_packages_apps_Camera2" />
+  <project name="CalyxOS/platform_packages_apps_Car_Settings" />
   <project name="CalyxOS/platform_packages_apps_CarrierConfig" />
   <project name="CalyxOS/platform_packages_apps_CellBroadcastReceiver" />
   <project name="CalyxOS/platform_packages_apps_CertInstaller" />
   <project name="CalyxOS/platform_packages_apps_Contacts" />
+  <project name="CalyxOS/platform_packages_apps_ContactsPicker" />
   <project name="CalyxOS/platform_packages_apps_Datura" />
   <project name="CalyxOS/platform_packages_apps_DeskClock" />
   <project name="CalyxOS/platform_packages_apps_Dialer" />
@@ -420,8 +432,10 @@
   <project name="CalyxOS/platform_packages_apps_Stk" />
   <project name="CalyxOS/platform_packages_apps_StorageManager" />
   <project name="CalyxOS/platform_packages_apps_SystemUpdater" />
+  <project name="CalyxOS/platform_packages_apps_TV" />
   <project name="CalyxOS/platform_packages_apps_ThemePicker" />
   <project name="CalyxOS/platform_packages_apps_Traceur" />
+  <project name="CalyxOS/platform_packages_apps_TvSettings" />
   <project name="CalyxOS/platform_packages_apps_Twelve" />
   <project name="CalyxOS/platform_packages_apps_Updater" />
   <project name="CalyxOS/platform_packages_apps_WallpaperPicker2" />
@@ -438,6 +452,7 @@
   <project name="CalyxOS/platform_packages_modules_Nfc" />
   <project name="CalyxOS/platform_packages_modules_Permission" />
   <project name="CalyxOS/platform_packages_modules_StatsD" />
+  <project name="CalyxOS/platform_packages_modules_Telephony" />
   <project name="CalyxOS/platform_packages_modules_UprobeStats" />
   <project name="CalyxOS/platform_packages_modules_Uwb" />
   <project name="CalyxOS/platform_packages_modules_Virtualization" />
@@ -487,11 +502,14 @@
   <project name="CalyxOS/platform_system_chre" />
   <project name="CalyxOS/platform_system_core" />
   <project name="CalyxOS/platform_system_extras" />
+  <project name="CalyxOS/platform_system_incremental_delivery" />
   <project name="CalyxOS/platform_system_keymint" />
   <project name="CalyxOS/platform_system_libhidl" />
   <project name="CalyxOS/platform_system_libufdt" />
   <project name="CalyxOS/platform_system_logging" />
   <project name="CalyxOS/platform_system_media" />
+  <project name="CalyxOS/platform_system_memory_libdmabufheap" />
+  <project name="CalyxOS/platform_system_memory_libion" />
   <project name="CalyxOS/platform_system_netd" />
   <project name="CalyxOS/platform_system_nfc" />
   <project name="CalyxOS/platform_system_qcom" />
@@ -533,6 +551,7 @@
   <project name="CalyxOS/vendor_qcom_opensource_fm-commonsys" />
   <project name="CalyxOS/vendor_qcom_opensource_healthd-ext" />
   <project name="CalyxOS/vendor_qcom_opensource_interfaces" />
+  <project name="CalyxOS/vendor_qcom_opensource_libqspa" />
   <project name="CalyxOS/vendor_qcom_opensource_libvmmem" />
   <project name="CalyxOS/vendor_qcom_opensource_power" />
   <project name="CalyxOS/vendor_qcom_opensource_thermal-engine" />
