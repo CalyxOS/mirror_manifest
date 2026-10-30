@@ -255,6 +255,7 @@
   <project name="CalyxOS/platform_external_ant-wireless_antradio-library" />
   <project name="CalyxOS/platform_external_ant-wireless_hidl" />
   <project name="CalyxOS/platform_external_armnn" />
+  <project name="CalyxOS/platform_external_avb" />
   <project name="CalyxOS/platform_external_calyx_GCamPhotosPreview" />
   <project name="CalyxOS/platform_external_calyx_chromium" />
   <project name="CalyxOS/platform_external_calyx_datura" />
@@ -478,6 +479,7 @@
   <project name="CalyxOS/platform_packages_resources_devicesettings" />
   <project name="CalyxOS/platform_packages_services_BuiltInPrintService" />
   <project name="CalyxOS/platform_packages_services_Iwlan" />
+  <project name="CalyxOS/platform_packages_services_Mms" />
   <project name="CalyxOS/platform_packages_services_Telecomm" />
   <project name="CalyxOS/platform_packages_services_Telephony" />
   <project name="CalyxOS/platform_prebuilts_boot-artifacts" />
