@@ -516,6 +516,7 @@
   <project name="CalyxOS/platform_system_core" />
   <project name="CalyxOS/platform_system_extras" />
   <project name="CalyxOS/platform_system_fs_fs_mgr" />
+  <project name="CalyxOS/platform_system_gsid" />
   <project name="CalyxOS/platform_system_incremental_delivery" />
   <project name="CalyxOS/platform_system_keymint" />
   <project name="CalyxOS/platform_system_libfmq" />
